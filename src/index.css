@@ -1,0 +1,57 @@
+/* Import NES.css */
+@import 'nes.css/css/nes.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* NES-specific overrides and utilities */
+body {
+  font-family: 'Press Start 2P', monospace;
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+/* Use Press Start 2P for NES elements */
+.nes-container,
+.nes-btn,
+.nes-input,
+.nes-badge,
+.nes-text {
+  font-family: 'Press Start 2P', monospace;
+}
+
+/* For Japanese text, use system fonts for better readability */
+.text-7xl, .text-9xl, .text-6xl, .text-5xl {
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Card flip animations */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Ensure NES containers have proper spacing */
+.nes-container {
+  margin-bottom: 1rem;
+}
+
+/* NES color palette adjustments */
+:root {
+  --nes-color-primary: #209cee;
+  --nes-color-success: #92cc41;
+  --nes-color-warning: #f7d51d;
+  --nes-color-error: #e76e55;
+}

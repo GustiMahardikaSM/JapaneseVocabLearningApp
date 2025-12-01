@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/cat.png",
+    "sound": "/assets/sounds/neko.mp3",
+    "answer": "猫",
+    "choices": ["猫", "犬", "鳥"]
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/dog.png",
+    "sound": "/assets/sounds/inu.mp3",
+    "answer": "犬",
+    "choices": ["犬", "魚", "馬"]
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/bird.png",
+    "sound": "/assets/sounds/tori.mp3",
+    "answer": "鳥",
+    "choices": ["鳥", "猫", "牛"]
+  }
+]
