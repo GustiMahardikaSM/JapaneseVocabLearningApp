@@ -8266,5 +8266,89 @@
 "Romaji": "mettaninai",
 "Meaning": "Jarang sekali / Hampir tidak pernah",
 "Type": "Phrase"
+},
+{
+"Vocabulary": "ひょっとすると／ひょっとしたら～かもしれない",
+"Furigana": "ひょっとすると／ひょっとしたら～かもしれない",
+"Romaji": "hyottosurutohyottoshitarakamoshirenai",
+"Meaning": "Mungkin saja / Barangkali",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "もしかすると／もしかしたら～かもしれない",
+"Furigana": "もしかすると／もしかしたら～かもしれない",
+"Romaji": "moshikasurutomoshikashitarakamoshirenai",
+"Meaning": "Bisa jadi / Mungkin saja",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "恐らく～だろう／と思う／に違いない",
+"Furigana": "おそらく～だろう／とおもう／にちがいない",
+"Romaji": "osorakudaroutoomounichigainai",
+"Meaning": "Mungkin / Kemungkinan besar / Pasti",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "どうも～らしい／ようだ",
+"Furigana": "どうも～らしい／ようだ",
+"Romaji": "doumorashiiyouda",
+"Meaning": "Sepertinya / Nampaknya",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "あたかも～ようだ／ごとし",
+"Furigana": "あたかも～ようだ／ごとし",
+"Romaji": "atakamoyoudagotoshi",
+"Meaning": "Seolah-olah / Seperti",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "ちょうど～ようだ／みたいだ",
+"Furigana": "ちょうど～ようだ／みたいだ",
+"Romaji": "choudoyoudamitaida",
+"Meaning": "Persis seperti / Tepat seperti",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "まるで～ようだ／みたいだ",
+"Furigana": "まるで～ようだ／みたいだ",
+"Romaji": "marudeyoudamitaida",
+"Meaning": "Benar-benar seperti / Bagaikan",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "いくら～ても",
+"Furigana": "いくら～ても",
+"Romaji": "ikuratemo",
+"Meaning": "Seberapa banyak pun / Sekuat apa pun",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "たとえ～ても",
+"Furigana": "たとえ～ても",
+"Romaji": "tatoetemo",
+"Meaning": "Meskipun / Walaupun",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "万一／万が一～ば／たら／なら／ても～",
+"Furigana": "まんいち／まんがいち～ば／たら／なら／ても～",
+"Romaji": "manichimangaichibataranaratemo",
+"Meaning": "Kalau-kalau / Seandainya (terjadi sesuatu)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "一体～疑問詞（なぜ／誰／どこ……）～か／だろう",
+"Furigana": "いったい～ぎもんし（なぜ／だれ／どこ……）～か／だろう",
+"Romaji": "ittaigimonshinazedaredokokadarou",
+"Meaning": "Sebenarnya / (kata tanya) gerangan",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "果たして～か／だろうか",
+"Furigana": "はたして～か／だろうか",
+"Romaji": "hatashitekadarouka",
+"Meaning": "Benarkah / Apakah sungguh",
+"Type": "Phrase"
 }
 ]
