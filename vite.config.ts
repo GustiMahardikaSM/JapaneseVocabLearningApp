@@ -7,4 +7,10 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  server: {
+    watch: {
+      // Ignore the progress file to prevent infinite refresh loops
+      ignored: ['src/data/progress.json'],
+    },
+  },
 });

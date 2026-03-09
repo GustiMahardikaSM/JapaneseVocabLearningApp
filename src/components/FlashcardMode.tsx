@@ -63,32 +63,58 @@ function FlashcardMode({ level, type, onBack }: FlashcardModeProps) {
     loadData();
   }, [level, type]);
 
-  // useEffect untuk memuat progres chapter yang tersimpan di localStorage saat komponen dimuat atau `level`/`type` berubah.
-  useEffect(() => {
-    const savedProgress = localStorage.getItem(`completedChapters_${level}_${type}`);
-    if (savedProgress) {
-      setCompletedChapters(new Set(JSON.parse(savedProgress)));
-    }
-  }, [level, type]);
+  /**
+   * Fungsi untuk menyimpan progres belajar ke file `progress.json` via backend.
+   * @param chaptersToSave - Set yang berisi chapter yang sudah selesai untuk disimpan.
+   */
+  const saveProgress = async (chaptersToSave: Set<number>) => {
+    try {
+      // 1. Ambil objek progres lengkap saat ini dari server.
+      const response = await fetch('http://localhost:3001/api/progress');
+      const allProgress = response.ok ? await response.json() : {};
 
-  // useEffect untuk menyimpan progres chapter ke localStorage setiap kali `completedChapters` berubah.
-  useEffect(() => {
-    // Hanya menyimpan jika data sudah dimuat untuk menghindari penimpaan data kosong.
-    if (data.length > 0) {
-      localStorage.setItem(
-        `completedChapters_${level}_${type}`,
-        JSON.stringify(Array.from(completedChapters))
-      );
+      // 2. Perbarui progres untuk mode saat ini (level dan tipe).
+      const progressKey = `${level}_${type}`;
+      const updatedProgress = {
+        ...allProgress,
+        [progressKey]: Array.from(chaptersToSave),
+      };
+
+      // 3. Kirim objek progres yang sudah diperbarui kembali ke server.
+      await fetch('http://localhost:3001/api/progress', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(updatedProgress, null, 2),
+      });
+    } catch (error) {
+      console.error('Error saving progress:', error);
     }
-  }, [completedChapters, level, type, data.length]);
+  };
 
   /**
-   * Fungsi asinkron untuk memuat data kartu dari file JSON berdasarkan `level` dan `type` prop.
-   * Juga me-reset state yang relevan setelah data dimuat.
+   * Fungsi asinkron untuk memuat data kartu (kosakata/kana) dan progres belajar dari backend.
    */
   const loadData = async () => {
     try {
       setLoading(true);
+
+      // 1. Ambil data progres dari backend.
+      const progressResponse = await fetch('http://localhost:3001/api/progress');
+      if (progressResponse.ok) {
+        const allProgress = await progressResponse.json();
+        const progressKey = `${level}_${type}`;
+        const savedCompletedChapters = allProgress[progressKey] || [];
+        setCompletedChapters(new Set(savedCompletedChapters));
+      } else if (progressResponse.status === 404) {
+        // File progress.json belum ada, jadi mulai dengan set kosong.
+        setCompletedChapters(new Set());
+      } else {
+        throw new Error('Failed to fetch progress');
+      }
+
+      // 2. Muat data kartu (kosakata atau kana).
       let loadedData;
       if (type === 'vocabulary') {
         loadedData = await getWordsForLevel(level);
@@ -100,19 +126,15 @@ function FlashcardMode({ level, type, onBack }: FlashcardModeProps) {
         loadedData = module.default;
       }
       setData(loadedData || []);
-      // Reset state setelah data baru dimuat
+
+      // 3. Reset state komponen.
       setCurrentIndex(0);
       setCurrentChapter(0);
       setIsFlipped(false);
-      // Muat progres yang tersimpan atau buat set kosong jika tidak ada.
-      const savedProgress = localStorage.getItem(`completedChapters_${level}_${type}`);
-      if (savedProgress) {
-        setCompletedChapters(new Set(JSON.parse(savedProgress)));
-      } else {
-        setCompletedChapters(new Set());
-      }
+
     } catch (error) {
       console.error('Error loading data:', error);
+      // Opsional: tampilkan pesan error kepada pengguna.
     } finally {
       setLoading(false);
     }
@@ -146,19 +168,22 @@ function FlashcardMode({ level, type, onBack }: FlashcardModeProps) {
   };
 
   /**
-   * Fungsi untuk menandai chapter saat ini sebagai "selesai".
+   * Fungsi untuk menandai chapter saat ini sebagai "selesai" dan menyimpan progres.
    */
   const handleMarkComplete = () => {
-    setCompletedChapters((prev) => new Set(prev).add(currentChapter));
+    const newCompleted = new Set(completedChapters).add(currentChapter);
+    setCompletedChapters(newCompleted);
+    saveProgress(newCompleted);
   };
 
   /**
-   * Fungsi untuk membatalkan status "selesai" pada chapter saat ini.
+   * Fungsi untuk membatalkan status "selesai" pada chapter saat ini dan menyimpan progres.
    */
   const handleUndoCompletion = () => {
     const newCompleted = new Set(completedChapters);
     newCompleted.delete(currentChapter);
     setCompletedChapters(newCompleted);
+    saveProgress(newCompleted);
   };
 
   /**
