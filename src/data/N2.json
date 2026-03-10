@@ -8350,5 +8350,348 @@
 "Romaji": "hatashitekadarouka",
 "Meaning": "Benarkah / Apakah sungguh",
 "Type": "Phrase"
+},
+{
+"Vocabulary": "いよいよ",
+"Furigana": "いよいよ",
+"Romaji": "iyoiyo",
+"Meaning": "Akhirnya, semakin",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "とうとう",
+"Furigana": "とうとう",
+"Romaji": "toutou",
+"Meaning": "Akhirnya, pada akhirnya",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "ついに",
+"Furigana": "ついに",
+"Romaji": "tsuini",
+"Meaning": "Akhirnya, pada akhirnya",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "ようやく",
+"Furigana": "ようやく",
+"Romaji": "youyaku",
+"Meaning": "Akhirnya",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "結局",
+"Furigana": "けっきょく",
+"Romaji": "kekkyoku",
+"Meaning": "Pada akhirnya, kesimpulannya",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "うっかり",
+"Furigana": "うっかり",
+"Romaji": "ukkari",
+"Meaning": "Tanpa sengaja, ceroboh",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "思わず",
+"Furigana": "おもわず",
+"Romaji": "omowazu",
+"Meaning": "Tanpa sadar, secara spontan",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "つい",
+"Furigana": "つい",
+"Romaji": "tsui",
+"Meaning": "Tanpa sengaja, terlanjur",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "ふと",
+"Furigana": "ふと",
+"Romaji": "futo",
+"Meaning": "Tiba-tiba, kebetulan",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "案外",
+"Furigana": "あんがい",
+"Romaji": "angai",
+"Meaning": "Di luar dugaan, tak disangka",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "意外（に／と）",
+"Furigana": "いがい（に／と）",
+"Romaji": "igainito",
+"Meaning": "Tidak disangka-sangka, di luar perkiraan",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "思いのほか",
+"Furigana": "おもいのほか",
+"Romaji": "omoinohoka",
+"Meaning": "Lebih dari yang dikira, di luar dugaan",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "結構",
+"Furigana": "けっこう",
+"Romaji": "kekkou",
+"Meaning": "Lumayan, cukup",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "一応",
+"Furigana": "いちおう",
+"Romaji": "ichiou",
+"Meaning": "Untuk sementara, kurang lebih",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "とりあえず",
+"Furigana": "とりあえず",
+"Romaji": "toriaezu",
+"Meaning": "Untuk saat ini, sementara itu",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "やむをえず",
+"Furigana": "やむをえず",
+"Romaji": "yamuoezu",
+"Meaning": "Terpaksa, mau tidak mau",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "かえって",
+"Furigana": "かえって",
+"Romaji": "kaette",
+"Meaning": "Malah, sebaliknya",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "まして",
+"Furigana": "まして",
+"Romaji": "mashite",
+"Meaning": "Apalagi, terlebih lagi",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "むしろ",
+"Furigana": "むしろ",
+"Romaji": "mushiro",
+"Meaning": "Lebih baik, daripada",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "わざと",
+"Furigana": "わざと",
+"Romaji": "wazato",
+"Meaning": "Dengan sengaja",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "わざわざ",
+"Furigana": "わざわざ",
+"Romaji": "wazawaza",
+"Meaning": "Bersusah payah, sengaja (meluangkan waktu)",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "せっかく",
+"Furigana": "せっかく",
+"Romaji": "sekkaku",
+"Meaning": "Sudah bersusah payah, mumpung",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "たった",
+"Furigana": "たった",
+"Romaji": "tatta",
+"Meaning": "Hanya, cuma",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "ほんの",
+"Furigana": "ほんの",
+"Romaji": "honno",
+"Meaning": "Hanya, sekadar",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "わずか（に）",
+"Furigana": "わずか（に）",
+"Romaji": "wazukani",
+"Meaning": "Hanya sedikit",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "およそ",
+"Furigana": "およそ",
+"Romaji": "oyoso",
+"Meaning": "Sekitar, kira-kira",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "ほぼ",
+"Furigana": "ほぼ",
+"Romaji": "hobo",
+"Meaning": "Hampir, rata-rata",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "せいぜい",
+"Furigana": "せいぜい",
+"Romaji": "seizei",
+"Meaning": "Paling banyak, maksimal",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "せめて",
+"Furigana": "せめて",
+"Romaji": "semete",
+"Meaning": "Setidaknya, sekurang-kurangnya",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "どうせ",
+"Furigana": "どうせ",
+"Romaji": "douse",
+"Meaning": "Toh, bagaimanapun juga, lagipula",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "決まって",
+"Furigana": "きまって",
+"Romaji": "kimatte",
+"Meaning": "Selalu, pasti",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "早速",
+"Furigana": "さっそく",
+"Romaji": "sassoku",
+"Meaning": "Segera, secepatnya",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "至急",
+"Furigana": "しきゅう",
+"Romaji": "shikyuu",
+"Meaning": "Segera, mendesak",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "いきなり",
+"Furigana": "いきなり",
+"Romaji": "ikinari",
+"Meaning": "Tiba-tiba, mendadak",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "突如",
+"Furigana": "とつじょ",
+"Romaji": "totsujo",
+"Meaning": "Tiba-tiba",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "次第に",
+"Furigana": "しだいに",
+"Romaji": "shidaini",
+"Meaning": "Berangsur-angsur, bertahap",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "徐々に",
+"Furigana": "じょじょに",
+"Romaji": "jojoni",
+"Meaning": "Perlahan-lahan, sedikit demi sedikit",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "主に",
+"Furigana": "おもに",
+"Romaji": "omoni",
+"Meaning": "Terutama, sebagian besar",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "既に",
+"Furigana": "すでに",
+"Romaji": "sudeni",
+"Meaning": "Sudah, telah",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "単に",
+"Furigana": "たんに",
+"Romaji": "tanni",
+"Meaning": "Sekadar, semata-mata",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "常に",
+"Furigana": "つねに",
+"Romaji": "tsuneni",
+"Meaning": "Selalu, senantiasa",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "まさに（正に）",
+"Furigana": "まさに",
+"Romaji": "masani",
+"Meaning": "Benar-benar, persis",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "あいにく",
+"Furigana": "あいにく",
+"Romaji": "ainiku",
+"Meaning": "Sayangnya, malangnya",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "あくまで",
+"Furigana": "あくまで",
+"Romaji": "akumade",
+"Meaning": "Bersikeras, teguh pada pendirian",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "改めて",
+"Furigana": "あらためて",
+"Romaji": "aratamete",
+"Meaning": "Sekali lagi, baru menyadari",
+"Type": "Adverb"
+},
+{
+"Vocabulary": "思い切って",
+"Furigana": "おもいきって",
+"Romaji": "omoikitte",
+"Meaning": "Dengan berani, membulatkan tekad",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "思い切り・思いっきり",
+"Furigana": "おもいきり・おもいっきり",
+"Romaji": "omoikiriomoikkiri",
+"Meaning": "Sepuasnya, sekuat tenaga",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "中でも",
+"Furigana": "なかでも",
+"Romaji": "nakademo",
+"Meaning": "Di antaranya, khususnya, terutama",
+"Type": "Conjunction"
+},
+{
+"Vocabulary": "半ば",
+"Furigana": "なかば",
+"Romaji": "nakaba",
+"Meaning": "Setengah, separuh",
+"Type": "Adverb"
 }
 ]
