@@ -8693,5 +8693,3694 @@
 "Romaji": "nakaba",
 "Meaning": "Setengah, separuh",
 "Type": "Adverb"
+},
+{
+"Vocabulary": "びっしり",
+"Furigana": "びっしり",
+"Romaji": "bisshiri",
+"Meaning": "Penuh sesak / rapat (tanpa celah, digunakan untuk sesuatu yang berderet rapat seperti tulisan)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "ぎっしり",
+"Furigana": "ぎっしり",
+"Romaji": "gisshiri",
+"Meaning": "Penuh sesak (digunakan untuk wadah yang diisi penuh dengan barang, misal kotak berisi permen)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "くっきり",
+"Furigana": "くっきり",
+"Romaji": "kukkiri",
+"Meaning": "Dengan jelas / tajam (digunakan untuk penglihatan atau bentuk yang terlihat sangat jelas, misal pemandangan gunung)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "どっさり",
+"Furigana": "どっさり",
+"Romaji": "dossari",
+"Meaning": "Dalam jumlah banyak / menumpuk (digunakan untuk barang yang jumlahnya sangat banyak, misal hadiah)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "びっしょり",
+"Furigana": "びっしょり",
+"Romaji": "bisshori",
+"Meaning": "Basah kuyup (digunakan untuk kondisi tubuh atau pakaian yang sangat basah, misal karena keringat)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "ぽかぽか",
+"Furigana": "ぽかぽか",
+"Romaji": "pokapoka",
+"Meaning": "Hangat (digunakan untuk tubuh atau cuaca yang terasa hangat dan nyaman)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "ひんやり",
+"Furigana": "ひんやり",
+"Romaji": "hinyari",
+"Meaning": "Terasa sejuk / dingin (digunakan untuk udara atau sentuhan yang terasa dingin, misal udara pagi di dataran tinggi)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "しっとり",
+"Furigana": "しっとり",
+"Romaji": "shittori",
+"Meaning": "Lembab / halus (digunakan untuk sesuatu yang lembab secara positif, misal kulit yang halus setelah memakai krim)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "じめじめ",
+"Furigana": "じめじめ",
+"Romaji": "jimejime",
+"Meaning": "Lembab / basah (digunakan untuk kondisi yang tidak nyaman karena kelembaban tinggi, misal cuaca hujan)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "ずっしり",
+"Furigana": "ずっしり",
+"Romaji": "zusshiri",
+"Meaning": "Terasa sangat berat (digunakan saat mengangkat sesuatu yang berbobot, misal vas bunga dari tembaga)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "ひっそり",
+"Furigana": "ひっそり",
+"Romaji": "hisshori",
+"Meaning": "Sepi / sunyi (digunakan untuk suasana yang tenang tanpa suara, misal ruang kelas setelah jam sekolah)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "ぐちゃぐちゃ",
+"Furigana": "ぐちゃぐちゃ",
+"Romaji": "guchagucha",
+"Meaning": "Berantakan / kacau balau (digunakan untuk kondisi barang atau tempat yang tidak tertata, misal isi kamar)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "めちゃくちゃ",
+"Furigana": "めちゃくちゃ",
+"Romaji": "mechakucha",
+"Meaning": "Hancur / sangat kacau (digunakan untuk keadaan yang rusak parah atau sangat tidak masuk akal, misal kota setelah terkena topan)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "すれすれ",
+"Furigana": "すれすれ",
+"Romaji": "suresure",
+"Meaning": "Hampir menyentuh / nyaris (digunakan untuk jarak yang sangat dekat hingga hampir bergesekan, misal burung terbang di atas air)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "ほやほや",
+"Furigana": "ほやほや",
+"Romaji": "hoyahoya",
+"Meaning": "Masih baru / baru saja selesai (digunakan untuk sesuatu yang masih segar atau baru jadi, misal roti yang baru matang)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "ぼろぼろ",
+"Furigana": "ぼろぼろ",
+"Romaji": "boroboro",
+"Meaning": "Usang / compang-camping (digunakan untuk barang yang sudah sangat tua dan rusak, misal sepatu lama)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "さっさと",
+"Furigana": "さっさと",
+"Romaji": "sassato",
+"Meaning": "Dengan segera / tanpa menunda (digunakan saat melakukan sesuatu dengan cepat agar lekas selesai, misal segera makan)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "せっせと",
+"Furigana": "せっせと",
+"Romaji": "sesseto",
+"Meaning": "Dengan rajin / tekun (digunakan saat melakukan suatu pekerjaan terus-menerus tanpa henti, misal induk burung mengangkut makanan)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "てきぱき",
+"Furigana": "てきぱき",
+"Romaji": "tekipaki",
+"Meaning": "Dengan cekatan / gesit (digunakan untuk cara kerja yang efisien dan cepat, misal membereskan pekerjaan rumah)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "こつこつ",
+"Furigana": "こつこつ",
+"Romaji": "kotsukotsu",
+"Meaning": "Sedikit demi sedikit dengan gigih (digunakan untuk usaha yang dilakukan secara perlahan namun pasti, misal persiapan ujian)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "じっくり",
+"Furigana": "じっくり",
+"Romaji": "jikkuri",
+"Meaning": "Dengan saksama / matang-matang (digunakan saat meluangkan waktu untuk berpikir atau melakukan sesuatu tanpa terburu-buru)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "のろのろ",
+"Furigana": "のろのろ",
+"Romaji": "noronoro",
+"Meaning": "Dengan lambat / lelet (digunakan untuk gerakan yang sangat lamban, misal cara berjalan)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "しみじみ",
+"Furigana": "しみじみ",
+"Romaji": "shimijimi",
+"Meaning": "Merasakan secara mendalam / dari lubuk hati (digunakan saat meresapi suatu perasaan, misal kebaikan orang tua)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "つくづく",
+"Furigana": "つくづく",
+"Romaji": "tsukuzuku",
+"Meaning": "Benar-benar / sangat menyadari (digunakan saat memikirkan atau menyadari sesuatu secara mendalam setelah introspeksi)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "ざっと",
+"Furigana": "ざっと",
+"Romaji": "zatto",
+"Meaning": "Secara garis besar / sekilas (digunakan saat melakukan sesuatu dengan cepat tanpa detail, misal membaca buku)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "ずばり",
+"Furigana": "ずばり",
+"Romaji": "zubari",
+"Meaning": "Tepat sasaran / terus terang (digunakan saat menebak, mengkritik, atau mengatakan sesuatu langsung ke intinya)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "すんなり",
+"Furigana": "すんなり",
+"Romaji": "sunnari",
+"Meaning": "Dengan lancar / tanpa hambatan (digunakan saat suatu urusan selesai dengan mudah tanpa perdebatan)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "おっとり",
+"Furigana": "おっとり",
+"Romaji": "ottori",
+"Meaning": "Tenang / lembut (digunakan untuk karakter atau pembawaan seseorang yang kalem dan tidak mudah marah)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "のんびり",
+"Furigana": "のんびり",
+"Romaji": "nonbiri",
+"Meaning": "Bersantai / rileks (digunakan saat menikmati waktu tanpa terburu-buru, misal berendam di air panas)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "のびのび",
+"Furigana": "のびのび",
+"Romaji": "nobinobi",
+"Meaning": "Merasa bebas / lepas (digunakan saat berada dalam keadaan nyaman tanpa tekanan atau kekangan)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "いきいき",
+"Furigana": "いきいき",
+"Romaji": "ikiiki",
+"Meaning": "Penuh kehidupan / bersemangat (digunakan untuk ekspresi atau sorot mata yang memancarkan antusiasme)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "きびきび",
+"Furigana": "きびきび",
+"Romaji": "kibikibi",
+"Meaning": "Dengan tangkas / energik (digunakan untuk gerakan tubuh yang cepat, terarah, dan bersemangat)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "いらいら",
+"Furigana": "いらいら",
+"Romaji": "iraira",
+"Meaning": "Kesal / jengkel (digunakan saat merasa emosi karena hal yang tidak berjalan lancar, misal terjebak macet)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "むかむか",
+"Furigana": "むかむか",
+"Romaji": "mukamuka",
+"Meaning": "Muak / merasa marah (digunakan saat dada terasa sesak karena marah atau mual mendengar alasan buruk)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "きっぱり",
+"Furigana": "きっぱり",
+"Romaji": "kippari",
+"Meaning": "Dengan tegas / bulat (digunakan saat menolak atau menyatakan sesuatu tanpa keraguan sedikit pun)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "はきはき",
+"Furigana": "はきはき",
+"Romaji": "hakihaki",
+"Meaning": "Dengan jelas / lantang (digunakan untuk cara berbicara atau menjawab yang jelas dan meyakinkan, misal saat wawancara)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "おどおど",
+"Furigana": "おどおど",
+"Romaji": "odoodo",
+"Meaning": "Ragu-ragu / gugup (digunakan untuk sikap yang menunjukkan rasa cemas, takut, atau kurang percaya diri)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "そわそわ",
+"Furigana": "そわそわ",
+"Romaji": "sowasowa",
+"Meaning": "Gelisah / tidak tenang (digunakan untuk sikap tidak bisa diam karena gugup menantikan sesuatu, misal di hari pernikahan)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "くよくよ",
+"Furigana": "くよくよ",
+"Romaji": "kuyokuyo",
+"Meaning": "Terus kepikiran / murung (digunakan saat merisaukan atau menyesali hal sepele atau hal yang sudah berlalu)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "にやにや",
+"Furigana": "にやにや",
+"Romaji": "niyaniya",
+"Meaning": "Senyum-senyum sendiri / menyeringai (digunakan untuk ekspresi wajah tersenyum yang terkesan mencurigakan atau karena membayangkan sesuatu)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "ひやひや",
+"Furigana": "ひやひや",
+"Romaji": "hiyahiya",
+"Meaning": "Merasa deg-degan / ngeri (digunakan saat merasa khawatir atau takut akan bahaya yang mungkin terjadi)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "ぼんやり",
+"Furigana": "ぼんやり",
+"Romaji": "bonyari",
+"Meaning": "Melamun / tidak fokus (digunakan saat pikiran sedang kosong atau perhatian teralihkan sehingga melupakan sesuatu)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "ぐったり",
+"Furigana": "ぐったり",
+"Romaji": "guttari",
+"Meaning": "Lemas tak berdaya (digunakan untuk kondisi tubuh yang kehilangan seluruh tenaga, misal karena sangat lelah, sakit, atau mabuk)",
+"Type": "Suru-Verb"
+},
+{
+"Vocabulary": "くたくた",
+"Furigana": "くたくた",
+"Romaji": "kutakuta",
+"Meaning": "Sangat lelah / letih (digunakan untuk kelelahan fisik yang intens setelah melakukan aktivitas berat, misal mendaki gunung)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "へとへと",
+"Furigana": "へとへと",
+"Romaji": "hetoheto",
+"Meaning": "Sangat kelelahan / habis tenaga (mirip dengan kutakuta, tetapi lebih menekankan pada kondisi tenaga yang benar-benar terkuras habis, misal setelah ujian panjang)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "顔が広い",
+"Furigana": "かおがひろい",
+"Romaji": "kaogahiroi",
+"Meaning": "Punya banyak kenalan / Relasinya luas",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "顔を貸す",
+"Furigana": "かおをかす",
+"Romaji": "kaowokasu",
+"Meaning": "Meluangkan waktu (untuk mendengarkan/membantu seseorang)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "顔を出す",
+"Furigana": "かおをだす",
+"Romaji": "kaowodasu",
+"Meaning": "Mampir / Menampakkan diri sebentar",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "頭が上がらない",
+"Furigana": "あたまがあがらない",
+"Romaji": "atamagaagaranai",
+"Meaning": "Merasa segan / Tidak bisa berkutik (karena berhutang budi)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "頭が痛い",
+"Furigana": "あたまがいたい",
+"Romaji": "atamagaitai",
+"Meaning": "Pusing / Sakit kepala (karena memikirkan suatu masalah)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "頭が固い",
+"Furigana": "あたまがかたい",
+"Romaji": "atamagakatai",
+"Meaning": "Keras kepala / Kaku (sulit menerima pendapat orang lain)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "頭に来る",
+"Furigana": "あたまにくる",
+"Romaji": "atamanikuru",
+"Meaning": "Marah / Jengkel",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "頭を下げる",
+"Furigana": "あたまをさげる",
+"Romaji": "atamawosageru",
+"Meaning": "Meminta maaf / Menundukkan kepala",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "頭を冷やす",
+"Furigana": "あたまをひやす",
+"Romaji": "atamawohiyasu",
+"Meaning": "Menenangkan diri / Mendinginkan kepala",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "目がない",
+"Furigana": "めがない",
+"Romaji": "meganai",
+"Meaning": "Sangat menyukai sesuatu (sampai tidak bisa menahan diri)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "目に浮かぶ",
+"Furigana": "めにうかぶ",
+"Romaji": "meniukabu",
+"Meaning": "Terbayang di mata",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "目に付く",
+"Furigana": "めにつく",
+"Romaji": "menitsuku",
+"Meaning": "Mudah terlihat / Menarik perhatian",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "目を付ける",
+"Furigana": "めをつける",
+"Romaji": "mewotsukeru",
+"Meaning": "Mengincar / Memperhatikan dengan minat pada bidang tertentu",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "目を通す",
+"Furigana": "めをとおす",
+"Romaji": "mewotoosu",
+"Meaning": "Membaca sepintas / Memeriksa dengan cepat",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "口がうまい",
+"Furigana": "くちがうまい",
+"Romaji": "kuchigaumai",
+"Meaning": "Pandai bicara / Pandai merayu",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "口が重い",
+"Furigana": "くちがおもい",
+"Romaji": "kuchigaomoi",
+"Meaning": "Pendiam / Enggan bicara (terutama untuk topik tertentu)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "口が堅い",
+"Furigana": "くちがかたい",
+"Romaji": "kuchigakatai",
+"Meaning": "Pandai menjaga rahasia",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "口が軽い",
+"Furigana": "くちがかるい",
+"Romaji": "kuchigakarui",
+"Meaning": "Mulut ember / Tidak bisa menjaga rahasia",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "口が滑る",
+"Furigana": "くちがすべる",
+"Romaji": "kuchigasuberu",
+"Meaning": "Keceplosan (mengatakan hal yang seharusnya tidak dikatakan)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "口に合う",
+"Furigana": "くちにあう",
+"Romaji": "kuchiniau",
+"Meaning": "Cocok di lidah / Sesuai selera (untuk makanan)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "口にする",
+"Furigana": "くちにする",
+"Romaji": "kuchinisuru",
+"Meaning": "Mengucapkan / Menyatakan keluhan atau pendapat",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "口に出す",
+"Furigana": "くちにだす",
+"Romaji": "kuchinidasu",
+"Meaning": "Mengucapkan dengan lantang (untuk mengingat atau melatih)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "口を出す",
+"Furigana": "くちをだす",
+"Romaji": "kuchiwodasu",
+"Meaning": "Ikut campur (dalam urusan yang bukan urusannya)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "耳が痛い",
+"Furigana": "みみがいたい",
+"Romaji": "mimigaitai",
+"Meaning": "Telinga panas / Merasa tertusuk (mendengar kebenaran yang tidak menyenangkan)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "耳が早い",
+"Furigana": "みみがはやい",
+"Romaji": "mimigahayai",
+"Meaning": "Cepat mendapat informasi / Up to date",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "耳にする",
+"Furigana": "みみにする",
+"Romaji": "miminisuru",
+"Meaning": "Mendengar (secara kebetulan)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "耳を貸す",
+"Furigana": "みみをかす",
+"Romaji": "mimiwokasu",
+"Meaning": "Mendengarkan (nasihat atau pendapat orang lain)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "鼻が高い",
+"Furigana": "はながたかい",
+"Romaji": "hanagatakai",
+"Meaning": "Merasa bangga",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "鼻で笑う",
+"Furigana": "はなでわらう",
+"Romaji": "hanadewarau",
+"Meaning": "Menertawakan dengan sinis / Meremehkan",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "手が掛かる",
+"Furigana": "てがかかる",
+"Romaji": "tegakakaru",
+"Meaning": "Merepotkan / Membutuhkan banyak perhatian dan perawatan",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "手が空く",
+"Furigana": "てがあく",
+"Romaji": "tegaaku",
+"Meaning": "Memiliki waktu luang / Sedang tidak sibuk",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "手が足りない",
+"Furigana": "てがたりない",
+"Romaji": "tegatarinai",
+"Meaning": "Kekurangan tenaga kerja / Kekurangan orang",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "手が出ない",
+"Furigana": "てがでない",
+"Romaji": "tegadenai",
+"Meaning": "Tidak mampu (membeli atau menjangkau sesuatu karena terlalu mahal/sulit)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "手が離せない",
+"Furigana": "てがはなせない",
+"Romaji": "tegahanasenai",
+"Meaning": "Sedang sangat sibuk (pekerjaan tidak bisa ditinggalkan)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "手につかない",
+"Furigana": "てにつかない",
+"Romaji": "tenitsukanai",
+"Meaning": "Tidak bisa konsentrasi (karena cemas atau memikirkan hal lain)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "手を貸す",
+"Furigana": "てをかす",
+"Romaji": "tewokasu",
+"Meaning": "Membantu / Memberi bantuan",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "手を借りる",
+"Furigana": "てをかりる",
+"Romaji": "tewokariru",
+"Meaning": "Meminta bantuan",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "手を組む",
+"Furigana": "てをくむ",
+"Romaji": "tewokumu",
+"Meaning": "Bekerja sama / Bermitra",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "手を出す",
+"Furigana": "てをだす",
+"Romaji": "tewodasu",
+"Meaning": "Terlibat dalam bisnis baru / Mencoba hal baru / Memukul lebih dulu",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "手をつける",
+"Furigana": "てをつける",
+"Romaji": "tewotsukeru",
+"Meaning": "Mulai mengerjakan (suatu tugas atau pekerjaan)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "腕がいい",
+"Furigana": "うでがいい",
+"Romaji": "udegaii",
+"Meaning": "Terampil / Mahir / Punya reputasi keahlian yang bagus",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "腕を上げる",
+"Furigana": "うでをあげる",
+"Romaji": "udewoageru",
+"Meaning": "Meningkatkan keterampilan",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "腕が上がる",
+"Furigana": "うでがあがる",
+"Romaji": "udegaagaru",
+"Meaning": "Keterampilan meningkat",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "肩を落とす",
+"Furigana": "かたをおとす",
+"Romaji": "katawootosu",
+"Meaning": "Kecewa / Patah semangat / Tertunduk lesu",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "肩を貸す",
+"Furigana": "かたをかす",
+"Romaji": "katawokasu",
+"Meaning": "Meminjamkan bahu (untuk bersandar atau membantu orang berjalan)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "腹が立つ／腹を立てる",
+"Furigana": "はらがたつ／はらをたてる",
+"Romaji": "haragatatsuharawotateru",
+"Meaning": "Marah / Menjadi marah",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "腹が決まる／腹を決める",
+"Furigana": "はらがきまる／はらをきめる",
+"Romaji": "haragakimaruharawokimeru",
+"Meaning": "Memutuskan / Membulatkan tekad",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "胸が一杯になる",
+"Furigana": "むねがいっぱいになる",
+"Romaji": "munegaippaininaru",
+"Meaning": "Dada terasa penuh (karena emosi atau terharu)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "胸に納める",
+"Furigana": "むねにおさめる",
+"Romaji": "muneniosameru",
+"Meaning": "Menyimpan di dalam hati (rahasia)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "胸を打つ",
+"Furigana": "むねをうつ",
+"Romaji": "munewoutsu",
+"Meaning": "Menyentuh hati / Mengharukan",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "胸を張る",
+"Furigana": "むねをはる",
+"Romaji": "munewoharu",
+"Meaning": "Membusungkan dada / Tampil percaya diri",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "足を運ぶ",
+"Furigana": "あしをはこぶ",
+"Romaji": "ashiwohakobu",
+"Meaning": "Pergi ke / Mengunjungi",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "足を引っ張る",
+"Furigana": "あしをひっぱる",
+"Romaji": "ashiwohipparu",
+"Meaning": "Menghambat / Menjadi beban (bagi tim atau orang lain)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "足を延ばす",
+"Furigana": "あしをのばす",
+"Romaji": "ashiwonobasu",
+"Meaning": "Pergi lebih jauh / Memperpanjang perjalanan",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "身が入る",
+"Furigana": "みがはいる",
+"Romaji": "migahairu",
+"Meaning": "Bersemangat / Bersungguh-sungguh (dalam melakukan sesuatu)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "身につける",
+"Furigana": "みにつける",
+"Romaji": "minitsukeru",
+"Meaning": "Mempelajari / Menguasai (keterampilan atau pengetahuan)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "気が合う",
+"Furigana": "きがあう",
+"Romaji": "kigaau",
+"Meaning": "Cocok / Sepemikiran (digunakan untuk kesesuaian sifat/kepribadian dengan seseorang)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "気が多い",
+"Furigana": "きがおおい",
+"Romaji": "kigaooi",
+"Meaning": "Mudah berubah pikiran / Tertarik pada banyak hal",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "気が重い",
+"Furigana": "きがおもい",
+"Romaji": "kigaomoi",
+"Meaning": "Merasa berat hati / Enggan (melakukan sesuatu)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "気が利く",
+"Furigana": "きがきく",
+"Romaji": "kigakiku",
+"Meaning": "Peka / Perhatian terhadap detail",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "気が進まない",
+"Furigana": "きがすすまない",
+"Romaji": "kigasusumanai",
+"Meaning": "Tidak bersemangat / Enggan melakukan sesuatu",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "気が済む",
+"Furigana": "きがすむ",
+"Romaji": "kigasumu",
+"Meaning": "Merasa lega / Puas (setelah mengungkapkan atau melakukan sesuatu)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "気が小さい",
+"Furigana": "きがちいさい",
+"Romaji": "kigachiisai",
+"Meaning": "Pemalu / Penakut / Bernyali kecil",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "気が散る",
+"Furigana": "きがちる",
+"Romaji": "kigachiru",
+"Meaning": "Terganggu fokusnya / Teralihkan perhatiannya",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "気が早い",
+"Furigana": "きがはやい",
+"Romaji": "kigahayai",
+"Meaning": "Tergesa-gesa / Terlalu cepat mengambil tindakan",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "気が短い",
+"Furigana": "きがみじかい",
+"Romaji": "kigamijikai",
+"Meaning": "Tidak sabaran / Mudah marah",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "気が向く",
+"Furigana": "きがむく",
+"Romaji": "kigamuku",
+"Meaning": "Merasa ingin melakukan / Timbul minat",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "気に掛かる",
+"Furigana": "きにかかる",
+"Romaji": "kinikakaru",
+"Meaning": "Mengkhawatirkan / Menjadi pikiran (tentang keadaan orang atau hal lain)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "気に食わない",
+"Furigana": "きにくわない",
+"Romaji": "kinikuwanai",
+"Meaning": "Tidak suka / Tidak berkenan di hati",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "気にする",
+"Furigana": "きにする",
+"Romaji": "kinisuru",
+"Meaning": "Memperdulikan / Memikirkan secara berlebihan (khawatir)",
+"Type": "Phrase / Suru-Verb"
+},
+{
+"Vocabulary": "気に入る",
+"Furigana": "きにいる",
+"Romaji": "kiniiru",
+"Meaning": "Menyukai / Berkenan di hati (karena dirasa bagus atau cocok)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "気を落とす",
+"Furigana": "きをおとす",
+"Romaji": "kiwootosu",
+"Meaning": "Berkecil hati / Kecewa",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "気を取られる",
+"Furigana": "きをとられる",
+"Romaji": "kiwotorareru",
+"Meaning": "Teralihkan perhatiannya (oleh sesuatu yang lain)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "気を遣う",
+"Furigana": "きをつかう",
+"Romaji": "kiwotsukau",
+"Meaning": "Memperhatikan perasaan orang lain / Merasa sungkan",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "息が合う",
+"Furigana": "いきがあう",
+"Romaji": "ikigaau",
+"Meaning": "Kompak / Seirama (digunakan untuk keselarasan tindakan atau kerja sama antar orang)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "息が切れる",
+"Furigana": "いきがきれる",
+"Romaji": "ikigakireru",
+"Meaning": "Kehabisan napas / Terengah-engah",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "息が長い",
+"Furigana": "いきがながい",
+"Romaji": "ikiganagai",
+"Meaning": "Berlangsung lama / Berumur panjang (dalam karir atau suatu kegiatan)",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "心が広い",
+"Furigana": "こころがひろい",
+"Romaji": "kokorogahiroi",
+"Meaning": "Berlapang dada / Pemaaf / Berhati luas",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "心が狭い",
+"Furigana": "こころがせまい",
+"Romaji": "kokorogasemai",
+"Meaning": "Berpikiran sempit / Picik / Tidak toleran",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "心を込める",
+"Furigana": "こころをこめる",
+"Romaji": "kokorowokomeru",
+"Meaning": "Mencurahkan hati / Melakukan sesuatu dengan sepenuh hati",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "心を痛める",
+"Furigana": "こころをいためる",
+"Romaji": "kokorowoitameru",
+"Meaning": "Bersedih / Merasa prihatin (melihat penderitaan atau kondisi orang lain)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "名が売れる",
+"Furigana": "ながうれる",
+"Romaji": "nagaureru",
+"Meaning": "Menjadi terkenal / Namanya dikenal luas",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "力を入れる",
+"Furigana": "ちからをいれる",
+"Romaji": "chikarawoireru",
+"Meaning": "Mencurahkan tenaga / Berusaha keras (dalam suatu hal)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "虫の居所が悪い",
+"Furigana": "むしのいどころがわるい",
+"Romaji": "mushinoidokorogawarui",
+"Meaning": "Sedang bad mood / Suasana hatinya sedang buruk dan mudah marah",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "骨が折れる",
+"Furigana": "ほねがおれる",
+"Romaji": "honegaoreru",
+"Meaning": "Membutuhkan banyak usaha / Menyusahkan dan merepotkan",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "首になる／首にする",
+"Furigana": "くびになる／くびにする",
+"Romaji": "kubininarukubinisuru",
+"Meaning": "Dipecat / Memecat (dari pekerjaan)",
+"Type": "Phrase / Verb"
+},
+{
+"Vocabulary": "話しかける",
+"Furigana": "はなしかける",
+"Romaji": "hanashikakeru",
+"Meaning": "Mengajak bicara",
+"Type": "Verb"
+},
+{
+"Vocabulary": "笑いかける",
+"Furigana": "わらいかける",
+"Romaji": "waraikakeru",
+"Meaning": "Tersenyum kepada",
+"Type": "Verb"
+},
+{
+"Vocabulary": "問いかける",
+"Furigana": "といかける",
+"Romaji": "toikakeru",
+"Meaning": "Mengajukan pertanyaan",
+"Type": "Verb"
+},
+{
+"Vocabulary": "訴えかける",
+"Furigana": "うったえかける",
+"Romaji": "uttaekakeru",
+"Meaning": "Menggugah / Menarik simpati",
+"Type": "Verb"
+},
+{
+"Vocabulary": "ほほえみかける",
+"Furigana": "ほほえみかける",
+"Romaji": "hohoemikakeru",
+"Meaning": "Tersenyum ramah kepada",
+"Type": "Verb"
+},
+{
+"Vocabulary": "話し合う",
+"Furigana": "はなしあう",
+"Romaji": "hanashiau",
+"Meaning": "Berdiskusi",
+"Type": "Verb"
+},
+{
+"Vocabulary": "殺し合う",
+"Furigana": "ころしあう",
+"Romaji": "koroshiau",
+"Meaning": "Saling membunuh",
+"Type": "Verb"
+},
+{
+"Vocabulary": "見つめ合う",
+"Furigana": "みつめあう",
+"Romaji": "mitsumeau",
+"Meaning": "Saling menatap",
+"Type": "Verb"
+},
+{
+"Vocabulary": "助け合う",
+"Furigana": "たすけあう",
+"Romaji": "tasukeau",
+"Meaning": "Saling membantu",
+"Type": "Verb"
+},
+{
+"Vocabulary": "言い合う",
+"Furigana": "いいあう",
+"Romaji": "iiau",
+"Meaning": "Saling berdebat",
+"Type": "Verb"
+},
+{
+"Vocabulary": "ほほえみ合う",
+"Furigana": "ほほえみあう",
+"Romaji": "hohoemiau",
+"Meaning": "Saling tersenyum",
+"Type": "Verb"
+},
+{
+"Vocabulary": "考え直す",
+"Furigana": "かんがえなおす",
+"Romaji": "kangaenaosu",
+"Meaning": "Memikirkan kembali",
+"Type": "Verb"
+},
+{
+"Vocabulary": "建て直す",
+"Furigana": "たてなおす",
+"Romaji": "tatenaosu",
+"Meaning": "Membangun kembali",
+"Type": "Verb"
+},
+{
+"Vocabulary": "読み直す",
+"Furigana": "よみなおす",
+"Romaji": "yominaosu",
+"Meaning": "Membaca ulang",
+"Type": "Verb"
+},
+{
+"Vocabulary": "温め直す",
+"Furigana": "あたためなおす",
+"Romaji": "atatamenaosu",
+"Meaning": "Memanaskan kembali",
+"Type": "Verb"
+},
+{
+"Vocabulary": "見直す",
+"Furigana": "みなおす",
+"Romaji": "minaosu",
+"Meaning": "Meninjau kembali",
+"Type": "Verb"
+},
+{
+"Vocabulary": "書き直す",
+"Furigana": "かきなおす",
+"Romaji": "kakinaosu",
+"Meaning": "Menulis ulang",
+"Type": "Verb"
+},
+{
+"Vocabulary": "見つめ直す",
+"Furigana": "みつめなおす",
+"Romaji": "mitsumenaosu",
+"Meaning": "Mengevaluasi kembali",
+"Type": "Verb"
+},
+{
+"Vocabulary": "書き上がる",
+"Furigana": "かきあがる",
+"Romaji": "kakiagaru",
+"Meaning": "Selesai ditulis",
+"Type": "Verb"
+},
+{
+"Vocabulary": "出来上がる",
+"Furigana": "できあがる",
+"Romaji": "dekiagaru",
+"Meaning": "Selesai dibuat / Rampung",
+"Type": "Verb"
+},
+{
+"Vocabulary": "編み上がる",
+"Furigana": "あみあがる",
+"Romaji": "amiagaru",
+"Meaning": "Selesai dirajut",
+"Type": "Verb"
+},
+{
+"Vocabulary": "焼き上がる",
+"Furigana": "やきあがる",
+"Romaji": "yakiagaru",
+"Meaning": "Selesai dipanggang",
+"Type": "Verb"
+},
+{
+"Vocabulary": "炊き上がる",
+"Furigana": "たきあがる",
+"Romaji": "takiagaru",
+"Meaning": "Selesai dimasak (nasi)",
+"Type": "Verb"
+},
+{
+"Vocabulary": "ゆで上がる",
+"Furigana": "ゆであがる",
+"Romaji": "yudeagaru",
+"Meaning": "Selesai direbus",
+"Type": "Verb"
+},
+{
+"Vocabulary": "呼び出す",
+"Furigana": "よびだす",
+"Romaji": "yobidasu",
+"Meaning": "Memanggil keluar",
+"Type": "Verb"
+},
+{
+"Vocabulary": "連れ出す",
+"Furigana": "つれだす",
+"Romaji": "tsuredasu",
+"Meaning": "Membawa keluar",
+"Type": "Verb"
+},
+{
+"Vocabulary": "貸し出す",
+"Furigana": "かしだす",
+"Romaji": "kashidasu",
+"Meaning": "Meminjamkan",
+"Type": "Verb"
+},
+{
+"Vocabulary": "持ち出す",
+"Furigana": "もちだす",
+"Romaji": "mochidasu",
+"Meaning": "Membawa keluar / Mengangkat topik",
+"Type": "Verb"
+},
+{
+"Vocabulary": "抜け出す",
+"Furigana": "ぬけだす",
+"Romaji": "nukedasu",
+"Meaning": "Menyelinap keluar",
+"Type": "Verb"
+},
+{
+"Vocabulary": "飛び出す",
+"Furigana": "とびだす",
+"Romaji": "tobidasu",
+"Meaning": "Melompat keluar",
+"Type": "Verb"
+},
+{
+"Vocabulary": "逃げ出す",
+"Furigana": "にげだす",
+"Romaji": "nigedasu",
+"Meaning": "Melarikan diri",
+"Type": "Verb"
+},
+{
+"Vocabulary": "歩き出す",
+"Furigana": "あるきだす",
+"Romaji": "arukidasu",
+"Meaning": "Mulai berjalan",
+"Type": "Verb"
+},
+{
+"Vocabulary": "泣き出す",
+"Furigana": "なきだす",
+"Romaji": "nakidasu",
+"Meaning": "Mulai menangis",
+"Type": "Verb"
+},
+{
+"Vocabulary": "怒り出す",
+"Furigana": "おこりだす",
+"Romaji": "okoridasu",
+"Meaning": "Mulai marah",
+"Type": "Verb"
+},
+{
+"Vocabulary": "歌い出す",
+"Furigana": "うたいだす",
+"Romaji": "utaidasu",
+"Meaning": "Mulai bernyanyi",
+"Type": "Verb"
+},
+{
+"Vocabulary": "言い出す",
+"Furigana": "いいだす",
+"Romaji": "iidasu",
+"Meaning": "Mulai berbicara / Mengemukakan",
+"Type": "Verb"
+},
+{
+"Vocabulary": "話し出す",
+"Furigana": "はなしだす",
+"Romaji": "hanashidasu",
+"Meaning": "Mulai berbicara",
+"Type": "Verb"
+},
+{
+"Vocabulary": "痛み出す",
+"Furigana": "いたみだす",
+"Romaji": "itamidasu",
+"Meaning": "Mulai terasa sakit",
+"Type": "Verb"
+},
+{
+"Vocabulary": "歩き回る",
+"Furigana": "あるきまわる",
+"Romaji": "arukimawaru",
+"Meaning": "Berjalan berkeliling",
+"Type": "Verb"
+},
+{
+"Vocabulary": "見回る",
+"Furigana": "みまわる",
+"Romaji": "mimawaru",
+"Meaning": "Berkeliling untuk mengawasi",
+"Type": "Verb"
+},
+{
+"Vocabulary": "走り回る",
+"Furigana": "はしりまわる",
+"Romaji": "hashirimawaru",
+"Meaning": "Berlarian ke sana kemari",
+"Type": "Verb"
+},
+{
+"Vocabulary": "捜し回る",
+"Furigana": "さがしまわる",
+"Romaji": "sagashimawaru",
+"Meaning": "Mencari ke mana-mana",
+"Type": "Verb"
+},
+{
+"Vocabulary": "遊び回る",
+"Furigana": "あそびまわる",
+"Romaji": "asobimawaru",
+"Meaning": "Bermain ke sana kemari",
+"Type": "Verb"
+},
+{
+"Vocabulary": "逃げ回る",
+"Furigana": "にげまわる",
+"Romaji": "nigemawaru",
+"Meaning": "Lari ke sana kemari menghindar",
+"Type": "Verb"
+},
+{
+"Vocabulary": "飛び回る",
+"Furigana": "とびまわる",
+"Romaji": "tobimawaru",
+"Meaning": "Terbang berkeliling / Sibuk ke sana kemari",
+"Type": "Verb"
+},
+{
+"Vocabulary": "乗り込む",
+"Furigana": "のりこむ",
+"Romaji": "norikomu",
+"Meaning": "Naik ke dalam (kendaraan)",
+"Type": "Verb"
+},
+{
+"Vocabulary": "飛び込む",
+"Furigana": "とびこむ",
+"Romaji": "tobikomu",
+"Meaning": "Melompat ke dalam",
+"Type": "Verb"
+},
+{
+"Vocabulary": "混ぜ込む",
+"Furigana": "まぜこむ",
+"Romaji": "mazekomu",
+"Meaning": "Mencampurkan ke dalam",
+"Type": "Verb"
+},
+{
+"Vocabulary": "持ち込む",
+"Furigana": "もちこむ",
+"Romaji": "mochikomu",
+"Meaning": "Membawa masuk",
+"Type": "Verb"
+},
+{
+"Vocabulary": "染み込む",
+"Furigana": "しみこむ",
+"Romaji": "shimikomu",
+"Meaning": "Meresap",
+"Type": "Verb"
+},
+{
+"Vocabulary": "駆け込む",
+"Furigana": "かけこむ",
+"Romaji": "kakekomu",
+"Meaning": "Berlari masuk",
+"Type": "Verb"
+},
+{
+"Vocabulary": "詰め込む",
+"Furigana": "つめこむ",
+"Romaji": "tsumekomu",
+"Meaning": "Menjejalkan",
+"Type": "Verb"
+},
+{
+"Vocabulary": "信じ込む",
+"Furigana": "しんじこむ",
+"Romaji": "shinjikomu",
+"Meaning": "Sangat percaya / Yakin sepenuhnya",
+"Type": "Verb"
+},
+{
+"Vocabulary": "思い込む",
+"Furigana": "おもいこむ",
+"Romaji": "omoikomu",
+"Meaning": "Beranggapan / Percaya",
+"Type": "Verb"
+},
+{
+"Vocabulary": "黙り込む",
+"Furigana": "だまりこむ",
+"Romaji": "damarikomu",
+"Meaning": "Terdiam / Membisu",
+"Type": "Verb"
+},
+{
+"Vocabulary": "落ち込む",
+"Furigana": "おちこむ",
+"Romaji": "ochikomu",
+"Meaning": "Merasa terpuruk / Murung",
+"Type": "Verb"
+},
+{
+"Vocabulary": "眠り込む",
+"Furigana": "ねむりこむ",
+"Romaji": "nemurikomu",
+"Meaning": "Tertidur pulas",
+"Type": "Verb"
+},
+{
+"Vocabulary": "話し込む",
+"Furigana": "はなしこむ",
+"Romaji": "hanashikomu",
+"Meaning": "Asyik mengobrol",
+"Type": "Verb"
+},
+{
+"Vocabulary": "取り入れる",
+"Furigana": "とりいれる",
+"Romaji": "toriireru",
+"Meaning": "Mengadopsi / Menerima (ide, cara)",
+"Type": "Verb"
+},
+{
+"Vocabulary": "取り替える",
+"Furigana": "とりかえる",
+"Romaji": "torikaeru",
+"Meaning": "Mengganti (dengan yang baru)",
+"Type": "Verb"
+},
+{
+"Vocabulary": "取り消す",
+"Furigana": "とりけす",
+"Romaji": "torikesu",
+"Meaning": "Membatalkan",
+"Type": "Verb"
+},
+{
+"Vocabulary": "取り上げる",
+"Furigana": "とりあげる",
+"Romaji": "toriageru",
+"Meaning": "Mengangkat (topik) / Menyita",
+"Type": "Verb"
+},
+{
+"Vocabulary": "取り出す",
+"Furigana": "とりだす",
+"Romaji": "toridasu",
+"Meaning": "Mengeluarkan",
+"Type": "Verb"
+},
+{
+"Vocabulary": "受け入れる",
+"Furigana": "うけいれる",
+"Romaji": "ukeireru",
+"Meaning": "Menerima",
+"Type": "Verb"
+},
+{
+"Vocabulary": "受け持つ",
+"Furigana": "うけもつ",
+"Romaji": "ukemotsu",
+"Meaning": "Bertanggung jawab atas / Menangani",
+"Type": "Verb"
+},
+{
+"Vocabulary": "受け取る",
+"Furigana": "うけとる",
+"Romaji": "uketoru",
+"Meaning": "Menerima (barang)",
+"Type": "Verb"
+},
+{
+"Vocabulary": "あてはまる",
+"Furigana": "あてはまる",
+"Romaji": "atehamaru",
+"Meaning": "Sesuai dengan / Memenuhi syarat",
+"Type": "Verb"
+},
+{
+"Vocabulary": "あてはめる",
+"Furigana": "あてはめる",
+"Romaji": "atehameru",
+"Meaning": "Menerapkan / Mencocokkan",
+"Type": "Verb"
+},
+{
+"Vocabulary": "組み立てる",
+"Furigana": "くみたてる",
+"Romaji": "kumitateru",
+"Meaning": "Merakit",
+"Type": "Verb"
+},
+{
+"Vocabulary": "組み合わせる",
+"Furigana": "くみあわせる",
+"Romaji": "kumiawaseru",
+"Meaning": "Mengkombinasikan / Memadukan",
+"Type": "Verb"
+},
+{
+"Vocabulary": "追いかける",
+"Furigana": "おいかける",
+"Romaji": "oikakeru",
+"Meaning": "Mengejar",
+"Type": "Verb"
+},
+{
+"Vocabulary": "追い越す",
+"Furigana": "おいこす",
+"Romaji": "oikosu",
+"Meaning": "Menyusul / Melewati",
+"Type": "Verb"
+},
+{
+"Vocabulary": "追いつく",
+"Furigana": "おいつく",
+"Romaji": "oitsuku",
+"Meaning": "Menyusul (ketertinggalan)",
+"Type": "Verb"
+},
+{
+"Vocabulary": "追い出す",
+"Furigana": "おいだす",
+"Romaji": "oidasu",
+"Meaning": "Mengusir",
+"Type": "Verb"
+},
+{
+"Vocabulary": "振り返る",
+"Furigana": "ふりかえる",
+"Romaji": "furikaeru",
+"Meaning": "Menoleh ke belakang / Mengenang",
+"Type": "Verb"
+},
+{
+"Vocabulary": "振り向く",
+"Furigana": "ふりむく",
+"Romaji": "furimuku",
+"Meaning": "Menoleh",
+"Type": "Verb"
+},
+{
+"Vocabulary": "差し出す",
+"Furigana": "さしだす",
+"Romaji": "sashidasu",
+"Meaning": "Mengulurkan / Menyerahkan",
+"Type": "Verb"
+},
+{
+"Vocabulary": "差し引く",
+"Furigana": "さしひく",
+"Romaji": "sashihiku",
+"Meaning": "Memotong (gaji) / Mengurangi",
+"Type": "Verb"
+},
+{
+"Vocabulary": "通りかかる",
+"Furigana": "とおりかかる",
+"Romaji": "toorikakaru",
+"Meaning": "Kebetulan lewat",
+"Type": "Verb"
+},
+{
+"Vocabulary": "通り過ぎる",
+"Furigana": "とおりすぎる",
+"Romaji": "toorisugiru",
+"Meaning": "Melewati / Terlewat",
+"Type": "Verb"
+},
+{
+"Vocabulary": "乗り遅れる",
+"Furigana": "のりおくれる",
+"Romaji": "noriokareru",
+"Meaning": "Ketinggalan (kendaraan)",
+"Type": "Verb"
+},
+{
+"Vocabulary": "乗り越す",
+"Furigana": "のりこす",
+"Romaji": "norikosu",
+"Meaning": "Terlewat (stasiun tujuan)",
+"Type": "Verb"
+},
+{
+"Vocabulary": "乗り越える",
+"Furigana": "のりこえる",
+"Romaji": "norikoeru",
+"Meaning": "Mengatasi (rintangan)",
+"Type": "Verb"
+},
+{
+"Vocabulary": "見かける",
+"Furigana": "みかける",
+"Romaji": "mikakeru",
+"Meaning": "Kebetulan melihat",
+"Type": "Verb"
+},
+{
+"Vocabulary": "見習う",
+"Furigana": "みならう",
+"Romaji": "minarau",
+"Meaning": "Mencontoh / Meneladani",
+"Type": "Verb"
+},
+{
+"Vocabulary": "見送る",
+"Furigana": "みおくる",
+"Romaji": "miokuru",
+"Meaning": "Mengantar kepergian",
+"Type": "Verb"
+},
+{
+"Vocabulary": "見つめる",
+"Furigana": "みつめる",
+"Romaji": "mitsumeru",
+"Meaning": "Menatap lekat-lekat",
+"Type": "Verb"
+},
+{
+"Vocabulary": "見慣れた",
+"Furigana": "みなれた",
+"Romaji": "minareta",
+"Meaning": "Sudah terbiasa melihat",
+"Type": "Verb"
+},
+{
+"Vocabulary": "引き受ける",
+"Furigana": "ひきうける",
+"Romaji": "hikiukeru",
+"Meaning": "Menerima (tugas, tanggung jawab)",
+"Type": "Verb"
+},
+{
+"Vocabulary": "引き返す",
+"Furigana": "ひきかえす",
+"Romaji": "hikikaesu",
+"Meaning": "Kembali / Berbalik arah",
+"Type": "Verb"
+},
+{
+"Vocabulary": "引き取る",
+"Furigana": "ひきとる",
+"Romaji": "hikitoru",
+"Meaning": "Mengambil kembali / Mengasuh",
+"Type": "Verb"
+},
+{
+"Vocabulary": "引き止める",
+"Furigana": "ひきとめる",
+"Romaji": "hikitomeru",
+"Meaning": "Menahan / Mencegah pergi",
+"Type": "Verb"
+},
+{
+"Vocabulary": "引き出す",
+"Furigana": "ひきだす",
+"Romaji": "hikidasu",
+"Meaning": "Menarik (uang) / Mengeluarkan",
+"Type": "Verb"
+},
+{
+"Vocabulary": "引っかける",
+"Furigana": "ひっかける",
+"Romaji": "hikkakeru",
+"Meaning": "Mengaitkan / Tersangkut",
+"Type": "Verb"
+},
+{
+"Vocabulary": "引っかかる",
+"Furigana": "ひっかかる",
+"Romaji": "hikkakaru",
+"Meaning": "Tersangkut",
+"Type": "Verb"
+},
+{
+"Vocabulary": "引っかく",
+"Furigana": "ひっかく",
+"Romaji": "hikkaku",
+"Meaning": "Mencakar",
+"Type": "Verb"
+},
+{
+"Vocabulary": "引っ込む",
+"Furigana": "ひっこむ",
+"Romaji": "hikkomu",
+"Meaning": "Masuk ke dalam / Mundur",
+"Type": "Verb"
+},
+{
+"Vocabulary": "引っ張る",
+"Furigana": "ひっぱる",
+"Romaji": "hipparu",
+"Meaning": "Menarik",
+"Type": "Verb"
+},
+{
+"Vocabulary": "打ち消す",
+"Furigana": "うちけす",
+"Romaji": "uchikesu",
+"Meaning": "Menyangkal / Menepis",
+"Type": "Verb"
+},
+{
+"Vocabulary": "打ち合わせる",
+"Furigana": "うちあわせる",
+"Romaji": "uchiawaseru",
+"Meaning": "Membicarakan sebelumnya / Rapat koordinasi",
+"Type": "Verb"
+},
+{
+"Vocabulary": "すれ違う",
+"Furigana": "すれちがう",
+"Romaji": "surechigau",
+"Meaning": "Berpapasan",
+"Type": "Verb"
+},
+{
+"Vocabulary": "言葉遣い",
+"Furigana": "ことばづかい",
+"Romaji": "kotobazukai",
+"Meaning": "Cara berbicara / Pemilihan kata",
+"Type": "Noun"
+},
+{
+"Vocabulary": "色遣い",
+"Furigana": "いろづかい",
+"Romaji": "irozukai",
+"Meaning": "Penggunaan warna",
+"Type": "Noun"
+},
+{
+"Vocabulary": "金遣い",
+"Furigana": "かねづかい",
+"Romaji": "kanezukai",
+"Meaning": "Cara menghabiskan uang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "道沿い",
+"Furigana": "みちぞい",
+"Romaji": "michizoi",
+"Meaning": "Sepanjang jalan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "川沿い",
+"Furigana": "かわぞい",
+"Romaji": "kawazoi",
+"Meaning": "Sepanjang sungai",
+"Type": "Noun"
+},
+{
+"Vocabulary": "海岸沿い",
+"Furigana": "かいがんぞい",
+"Romaji": "kaiganzoi",
+"Meaning": "Sepanjang pantai",
+"Type": "Noun"
+},
+{
+"Vocabulary": "子供扱い",
+"Furigana": "こどもあつかい",
+"Romaji": "kodomoatsukai",
+"Meaning": "Memperlakukan seperti anak-anak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "犯人扱い",
+"Furigana": "はんにんあつかい",
+"Romaji": "hanninatsukai",
+"Meaning": "Memperlakukan seperti penjahat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "週明け",
+"Furigana": "しゅうあけ",
+"Romaji": "shuuake",
+"Meaning": "Awal minggu",
+"Type": "Noun"
+},
+{
+"Vocabulary": "夜明け",
+"Furigana": "よあけ",
+"Romaji": "yoake",
+"Meaning": "Fajar / Subuh",
+"Type": "Noun"
+},
+{
+"Vocabulary": "休み明け",
+"Furigana": "やすみあけ",
+"Romaji": "yasumiake",
+"Meaning": "Setelah libur",
+"Type": "Noun"
+},
+{
+"Vocabulary": "使用済み",
+"Furigana": "しようづみ",
+"Romaji": "shiyouzumi",
+"Meaning": "Sudah digunakan / Bekas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "登録済み",
+"Furigana": "とうろくづみ",
+"Romaji": "tourokuzumi",
+"Meaning": "Sudah terdaftar",
+"Type": "Noun"
+},
+{
+"Vocabulary": "解決済み",
+"Furigana": "かいけつづみ",
+"Romaji": "kaiketsuzumi",
+"Meaning": "Sudah terselesaikan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "家族連れ",
+"Furigana": "かぞくづれ",
+"Romaji": "kazokuzure",
+"Meaning": "Membawa keluarga",
+"Type": "Noun"
+},
+{
+"Vocabulary": "子供連れ",
+"Furigana": "こどもづれ",
+"Romaji": "kodomozure",
+"Meaning": "Membawa anak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "三人連れ",
+"Furigana": "さんにんづれ",
+"Romaji": "sanninzure",
+"Meaning": "Rombongan tiga orang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "色違い",
+"Furigana": "いろちがい",
+"Romaji": "irochigai",
+"Meaning": "Berbeda warna",
+"Type": "Noun"
+},
+{
+"Vocabulary": "人違い",
+"Furigana": "ひとちがい",
+"Romaji": "hitochigai",
+"Meaning": "Salah orang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "計算違い",
+"Furigana": "けいさんちがい",
+"Romaji": "keisanchigai",
+"Meaning": "Salah hitung",
+"Type": "Noun"
+},
+{
+"Vocabulary": "焼きたて",
+"Furigana": "やきたて",
+"Romaji": "yakitate",
+"Meaning": "Baru selesai dipanggang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "出来たて",
+"Furigana": "できたて",
+"Romaji": "dekitate",
+"Meaning": "Baru selesai dibuat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "とれたて",
+"Furigana": "とれたて",
+"Romaji": "toretate",
+"Meaning": "Baru saja dipetik / ditangkap",
+"Type": "Noun"
+},
+{
+"Vocabulary": "二メートルおき",
+"Furigana": "にめーとるおき",
+"Romaji": "nimeetoruoki",
+"Meaning": "Setiap jarak dua meter",
+"Type": "Noun"
+},
+{
+"Vocabulary": "一日おき",
+"Furigana": "いちにちおき",
+"Romaji": "ichinichioki",
+"Meaning": "Setiap dua hari sekali / Selang sehari",
+"Type": "Noun"
+},
+{
+"Vocabulary": "一つおき",
+"Furigana": "ひとつおき",
+"Romaji": "hitotsuoki",
+"Meaning": "Berselang satu",
+"Type": "Noun"
+},
+{
+"Vocabulary": "仕事ぶり",
+"Furigana": "しごとぶり",
+"Romaji": "shigotoburi",
+"Meaning": "Cara kerja",
+"Type": "Noun"
+},
+{
+"Vocabulary": "話しぶり",
+"Furigana": "はなしぶり",
+"Romaji": "hanashiburi",
+"Meaning": "Cara berbicara",
+"Type": "Noun"
+},
+{
+"Vocabulary": "暮らしぶり",
+"Furigana": "くらしぶり",
+"Romaji": "kurashiburi",
+"Meaning": "Gaya hidup",
+"Type": "Noun"
+},
+{
+"Vocabulary": "目つき",
+"Furigana": "めつき",
+"Romaji": "metsuki",
+"Meaning": "Sorot mata",
+"Type": "Noun"
+},
+{
+"Vocabulary": "顔つき",
+"Furigana": "かおつき",
+"Romaji": "kaotsuki",
+"Meaning": "Ekspresi wajah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "体つき",
+"Furigana": "からだつき",
+"Romaji": "karadatsuki",
+"Meaning": "Postur tubuh",
+"Type": "Noun"
+},
+{
+"Vocabulary": "非常識",
+"Furigana": "ひじょうしき",
+"Romaji": "hijoushiki",
+"Meaning": "Kurang akal sehat / Tidak masuk akal",
+"Type": "Noun"
+},
+{
+"Vocabulary": "非公式",
+"Furigana": "ひこうしき",
+"Romaji": "hikoushiki",
+"Meaning": "Tidak resmi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "非公開",
+"Furigana": "ひこうかい",
+"Romaji": "hikoukai",
+"Meaning": "Tertutup / Tidak untuk umum",
+"Type": "Noun"
+},
+{
+"Vocabulary": "非課税",
+"Furigana": "ひかぜい",
+"Romaji": "hikazei",
+"Meaning": "Bebas pajak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "不真面目",
+"Furigana": "ふまじめ",
+"Romaji": "fumajime",
+"Meaning": "Tidak serius / Main-main",
+"Type": "Noun"
+},
+{
+"Vocabulary": "不注意",
+"Furigana": "ふちゅうい",
+"Romaji": "fuchuui",
+"Meaning": "Ceroboh / Kurang hati-hati",
+"Type": "Noun"
+},
+{
+"Vocabulary": "不景気",
+"Furigana": "ふけいき",
+"Romaji": "fukeiki",
+"Meaning": "Resesi / Ekonomi lesu",
+"Type": "Noun"
+},
+{
+"Vocabulary": "不完全",
+"Furigana": "ふかんぜん",
+"Romaji": "fukanzen",
+"Meaning": "Tidak sempurna / Tidak lengkap",
+"Type": "Noun"
+},
+{
+"Vocabulary": "不健康",
+"Furigana": "ふけんこう",
+"Romaji": "fukenkou",
+"Meaning": "Tidak sehat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "不自然",
+"Furigana": "ふしぜん",
+"Romaji": "fushizen",
+"Meaning": "Tidak alami / Dibuat-buat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "不得意",
+"Furigana": "ふとくい",
+"Romaji": "futokui",
+"Meaning": "Tidak mahir / Titik lemah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "不規則",
+"Furigana": "ふきそく",
+"Romaji": "fukisoku",
+"Meaning": "Tidak teratur",
+"Type": "Noun"
+},
+{
+"Vocabulary": "不可能",
+"Furigana": "ふかのう",
+"Romaji": "fukanou",
+"Meaning": "Tidak mungkin",
+"Type": "Noun"
+},
+{
+"Vocabulary": "不器用",
+"Furigana": "ぶきよう",
+"Romaji": "bukiyou",
+"Meaning": "Ceroboh (dalam keterampilan) / Tidak tangkas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "不気味",
+"Furigana": "ぶきみ",
+"Romaji": "bukimi",
+"Meaning": "Aneh / Mengerikan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "不作法",
+"Furigana": "ぶさほう",
+"Romaji": "busahou",
+"Meaning": "Tidak sopan / Kurang ajar",
+"Type": "Noun"
+},
+{
+"Vocabulary": "無意識",
+"Furigana": "むいしき",
+"Romaji": "muishiki",
+"Meaning": "Tidak sadar",
+"Type": "Noun"
+},
+{
+"Vocabulary": "無関係",
+"Furigana": "むかんけい",
+"Romaji": "mukankei",
+"Meaning": "Tidak ada hubungannya",
+"Type": "Noun"
+},
+{
+"Vocabulary": "無関心",
+"Furigana": "むかんしん",
+"Romaji": "mukanshin",
+"Meaning": "Apatis / Acuh tak acuh",
+"Type": "Noun"
+},
+{
+"Vocabulary": "無計画",
+"Furigana": "むけいかく",
+"Romaji": "mukeikaku",
+"Meaning": "Tanpa rencana",
+"Type": "Noun"
+},
+{
+"Vocabulary": "無責任",
+"Furigana": "むせきにん",
+"Romaji": "musekinin",
+"Meaning": "Tidak bertanggung jawab",
+"Type": "Noun"
+},
+{
+"Vocabulary": "無表情",
+"Furigana": "むひょうじょう",
+"Romaji": "muhyoujou",
+"Meaning": "Tanpa ekspresi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "無気力",
+"Furigana": "むきりょく",
+"Romaji": "mukiryoku",
+"Meaning": "Letargis / Tidak bersemangat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "無許可",
+"Furigana": "むきょか",
+"Romaji": "mukyoka",
+"Meaning": "Tanpa izin / Ilegal",
+"Type": "Noun"
+},
+{
+"Vocabulary": "無反応",
+"Furigana": "むはんのう",
+"Romaji": "muhannou",
+"Meaning": "Tidak ada respons",
+"Type": "Noun"
+},
+{
+"Vocabulary": "未確認",
+"Furigana": "みかくにん",
+"Romaji": "mikakunin",
+"Meaning": "Belum dikonfirmasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "未解決",
+"Furigana": "みかいけつ",
+"Romaji": "mikaiketsu",
+"Meaning": "Belum terselesaikan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "未経験",
+"Furigana": "みけいけん",
+"Romaji": "mikeiken",
+"Meaning": "Belum berpengalaman",
+"Type": "Noun"
+},
+{
+"Vocabulary": "未開発",
+"Furigana": "みかいはつ",
+"Romaji": "mikaihatsu",
+"Meaning": "Belum dikembangkan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "未発表",
+"Furigana": "みはっぴょう",
+"Romaji": "mihappyou",
+"Meaning": "Belum diumumkan / Belum dipublikasikan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "未完成",
+"Furigana": "みかんせい",
+"Romaji": "mikansei",
+"Meaning": "Belum selesai / Belum sempurna",
+"Type": "Noun"
+},
+{
+"Vocabulary": "総人数",
+"Furigana": "そうにんずう",
+"Romaji": "souninzuu",
+"Meaning": "Total jumlah orang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "総人口",
+"Furigana": "そうじんこう",
+"Romaji": "soujinkou",
+"Meaning": "Total populasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "総面積",
+"Furigana": "そうめんせき",
+"Romaji": "soumenseki",
+"Meaning": "Total luas area",
+"Type": "Noun"
+},
+{
+"Vocabulary": "総復習",
+"Furigana": "そうふくしゅう",
+"Romaji": "soufukushuu",
+"Meaning": "Ulasan menyeluruh / Mengulang pelajaran secara keseluruhan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "総選挙",
+"Furigana": "そうせんきょ",
+"Romaji": "sousenkyo",
+"Meaning": "Pemilihan umum",
+"Type": "Noun"
+},
+{
+"Vocabulary": "総収入",
+"Furigana": "そうしゅうにゅう",
+"Romaji": "soushuunyuu",
+"Meaning": "Total pendapatan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "全世界",
+"Furigana": "ぜんせかい",
+"Romaji": "zenseikai",
+"Meaning": "Seluruh dunia",
+"Type": "Noun"
+},
+{
+"Vocabulary": "全国民",
+"Furigana": "ぜんこくみん",
+"Romaji": "zenkokumin",
+"Meaning": "Seluruh warga negara",
+"Type": "Noun"
+},
+{
+"Vocabulary": "全試合",
+"Furigana": "ぜんしあい",
+"Romaji": "zenshiai",
+"Meaning": "Seluruh pertandingan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "全自動",
+"Furigana": "ぜんじどう",
+"Romaji": "zenjidou",
+"Meaning": "Otomatis sepenuhnya",
+"Type": "Noun"
+},
+{
+"Vocabulary": "全財産",
+"Furigana": "ぜんざいさん",
+"Romaji": "zenzaisan",
+"Meaning": "Seluruh harta benda",
+"Type": "Noun"
+},
+{
+"Vocabulary": "全科目",
+"Furigana": "ぜんかもく",
+"Romaji": "zenkamoku",
+"Meaning": "Seluruh mata pelajaran",
+"Type": "Noun"
+},
+{
+"Vocabulary": "各学校",
+"Furigana": "かくがっこう",
+"Romaji": "kakugakkou",
+"Meaning": "Setiap sekolah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "各地域",
+"Furigana": "かくちいき",
+"Romaji": "kakuchiiki",
+"Meaning": "Setiap daerah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "各家庭",
+"Furigana": "かくかてい",
+"Romaji": "kakukatei",
+"Meaning": "Setiap keluarga / Setiap rumah tangga",
+"Type": "Noun"
+},
+{
+"Vocabulary": "各都市",
+"Furigana": "かくとし",
+"Romaji": "kakutoshi",
+"Meaning": "Setiap kota",
+"Type": "Noun"
+},
+{
+"Vocabulary": "各方面",
+"Furigana": "かくほうめん",
+"Romaji": "kakuhoumen",
+"Meaning": "Setiap arah / Berbagai pihak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "各分野",
+"Furigana": "かくぶんや",
+"Romaji": "kakubunya",
+"Meaning": "Setiap bidang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "諸外国",
+"Furigana": "しょがいこく",
+"Romaji": "shogaikoku",
+"Meaning": "Berbagai negara asing",
+"Type": "Noun"
+},
+{
+"Vocabulary": "諸条件",
+"Furigana": "しょじょうけん",
+"Romaji": "shojouken",
+"Meaning": "Berbagai syarat / kondisi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "諸問題",
+"Furigana": "しょもんだい",
+"Romaji": "shomondai",
+"Meaning": "Berbagai masalah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "諸費用",
+"Furigana": "しょひよう",
+"Romaji": "shohiyou",
+"Meaning": "Berbagai biaya",
+"Type": "Noun"
+},
+{
+"Vocabulary": "諸事情",
+"Furigana": "しょじじょう",
+"Romaji": "shojijou",
+"Meaning": "Berbagai keadaan / alasan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "現住所",
+"Furigana": "げんじゅうしょ",
+"Romaji": "genjuusho",
+"Meaning": "Alamat saat ini",
+"Type": "Noun"
+},
+{
+"Vocabulary": "現市長",
+"Furigana": "げんしちょう",
+"Romaji": "genshichou",
+"Meaning": "Wali kota saat ini",
+"Type": "Noun"
+},
+{
+"Vocabulary": "現段階",
+"Furigana": "げんだんかい",
+"Romaji": "gendankai",
+"Meaning": "Tahap saat ini",
+"Type": "Noun"
+},
+{
+"Vocabulary": "現時点",
+"Furigana": "げんじてん",
+"Romaji": "genjiten",
+"Meaning": "Waktu saat ini / Titik saat ini",
+"Type": "Noun"
+},
+{
+"Vocabulary": "今年度",
+"Furigana": "こんねんど",
+"Romaji": "konnendo",
+"Meaning": "Tahun fiskal ini",
+"Type": "Noun"
+},
+{
+"Vocabulary": "今学期",
+"Furigana": "こんがっき",
+"Romaji": "kongakki",
+"Meaning": "Semester ini",
+"Type": "Noun"
+},
+{
+"Vocabulary": "今世紀",
+"Furigana": "こんせいき",
+"Romaji": "konseiki",
+"Meaning": "Abad ini",
+"Type": "Noun"
+},
+{
+"Vocabulary": "今シーズン",
+"Furigana": "こんしーずん",
+"Romaji": "konshiizun",
+"Meaning": "Musim ini",
+"Type": "Noun"
+},
+{
+"Vocabulary": "前大統領",
+"Furigana": "ぜんだいとうりょう",
+"Romaji": "zendaitouryou",
+"Meaning": "Mantan presiden (sebelum yang sekarang)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "前首相",
+"Furigana": "ぜんしゅしょう",
+"Romaji": "zenshushou",
+"Meaning": "Mantan perdana menteri",
+"Type": "Noun"
+},
+{
+"Vocabulary": "前社長",
+"Furigana": "ぜんしゃちょう",
+"Romaji": "zenshachou",
+"Meaning": "Mantan direktur perusahaan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "前会長",
+"Furigana": "ぜんかいちょう",
+"Romaji": "zenkaichou",
+"Meaning": "Mantan ketua (dewan direksi/organisasi)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "前年度",
+"Furigana": "ぜんねんど",
+"Romaji": "zennendo",
+"Meaning": "Tahun fiskal sebelumnya",
+"Type": "Noun"
+},
+{
+"Vocabulary": "元大統領",
+"Furigana": "もとだいとうりょう",
+"Romaji": "motodaitouryou",
+"Meaning": "Mantan presiden (dulu pernah menjabat)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "元首相",
+"Furigana": "もとしゅしょう",
+"Romaji": "motoshushou",
+"Meaning": "Mantan perdana menteri",
+"Type": "Noun"
+},
+{
+"Vocabulary": "元歌手",
+"Furigana": "もとかしゅ",
+"Romaji": "motokashu",
+"Meaning": "Mantan penyanyi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "元スポーツ選手",
+"Furigana": "もとすぽーつせんしゅ",
+"Romaji": "motosupootsusenshu",
+"Meaning": "Mantan atlet olahraga",
+"Type": "Noun"
+},
+{
+"Vocabulary": "元夫",
+"Furigana": "もとおっと",
+"Romaji": "motootto",
+"Meaning": "Mantan suami",
+"Type": "Noun"
+},
+{
+"Vocabulary": "元妻",
+"Furigana": "もとつま",
+"Romaji": "mototsuma",
+"Meaning": "Mantan istri",
+"Type": "Noun"
+},
+{
+"Vocabulary": "真新しい",
+"Furigana": "まあたらしい",
+"Romaji": "maatarashii",
+"Meaning": "Benar-benar baru",
+"Type": "Phrase"
+},
+{
+"Vocabulary": "真夜中",
+"Furigana": "まよなか",
+"Romaji": "mayonaka",
+"Meaning": "Tengah malam buta",
+"Type": "Noun"
+},
+{
+"Vocabulary": "真正面",
+"Furigana": "ましょうめん",
+"Romaji": "mashoumen",
+"Meaning": "Tepat di depan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "真後ろ",
+"Furigana": "まうしろ",
+"Romaji": "maushiro",
+"Meaning": "Tepat di belakang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "真下",
+"Furigana": "ました",
+"Romaji": "mashita",
+"Meaning": "Tepat di bawah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "真上",
+"Furigana": "まうえ",
+"Romaji": "maue",
+"Meaning": "Tepat di atas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "真四角",
+"Furigana": "ましかく",
+"Romaji": "mashikaku",
+"Meaning": "Bujur sangkar sempurna",
+"Type": "Noun"
+},
+{
+"Vocabulary": "真向かい",
+"Furigana": "まむかい",
+"Romaji": "mamukai",
+"Meaning": "Tepat berseberangan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "正反対",
+"Furigana": "せいはんたい",
+"Romaji": "seihantai",
+"Meaning": "Tepat berlawanan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "正三角形",
+"Furigana": "せいさんかくけい",
+"Romaji": "seisankakukei",
+"Meaning": "Segitiga sama sisi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "正五角形",
+"Furigana": "せいごかくけい",
+"Romaji": "seigokakukei",
+"Meaning": "Segi lima beraturan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "正社員",
+"Furigana": "せいしゃいん",
+"Romaji": "seishain",
+"Meaning": "Karyawan tetap",
+"Type": "Noun"
+},
+{
+"Vocabulary": "正比例",
+"Furigana": "せいひれい",
+"Romaji": "seihirei",
+"Meaning": "Proporsi langsung / Berbanding lurus",
+"Type": "Noun"
+},
+{
+"Vocabulary": "逆方向",
+"Furigana": "ぎゃくほうこう",
+"Romaji": "gyakuhoukou",
+"Meaning": "Arah berlawanan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "逆輸入",
+"Furigana": "ぎゃくゆにゅう",
+"Romaji": "gyakuyunyuu",
+"Meaning": "Impor kembali",
+"Type": "Noun"
+},
+{
+"Vocabulary": "逆コース",
+"Furigana": "ぎゃくこーす",
+"Romaji": "gyakukoosu",
+"Meaning": "Jalur sebaliknya",
+"Type": "Noun"
+},
+{
+"Vocabulary": "逆効果",
+"Furigana": "ぎゃくこうか",
+"Romaji": "gyakukouka",
+"Meaning": "Efek kebalikan / Bumerang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "反時計回り",
+"Furigana": "はんとけいまわり",
+"Romaji": "hantokeimawari",
+"Meaning": "Berlawanan arah jarum jam",
+"Type": "Noun"
+},
+{
+"Vocabulary": "反社会的",
+"Furigana": "はんしゃかいてき",
+"Romaji": "hanshakaiteki",
+"Meaning": "Anti-sosial",
+"Type": "Noun"
+},
+{
+"Vocabulary": "反比例",
+"Furigana": "はんぴれい",
+"Romaji": "hanpirei",
+"Meaning": "Berbanding terbalik",
+"Type": "Noun"
+},
+{
+"Vocabulary": "別方向",
+"Furigana": "べつほうこう",
+"Romaji": "betsuhoukou",
+"Meaning": "Arah berbeda",
+"Type": "Noun"
+},
+{
+"Vocabulary": "別問題",
+"Furigana": "べつもんだい",
+"Romaji": "betsumondai",
+"Meaning": "Masalah berbeda",
+"Type": "Noun"
+},
+{
+"Vocabulary": "別行動",
+"Furigana": "べつこうどう",
+"Romaji": "betsukoudou",
+"Meaning": "Bertindak terpisah / Jalan masing-masing",
+"Type": "Noun"
+},
+{
+"Vocabulary": "別世界",
+"Furigana": "べつせかい",
+"Romaji": "betsusekai",
+"Meaning": "Dunia lain",
+"Type": "Noun"
+},
+{
+"Vocabulary": "異分野",
+"Furigana": "いぶんや",
+"Romaji": "ibunya",
+"Meaning": "Bidang yang berbeda",
+"Type": "Noun"
+},
+{
+"Vocabulary": "異文化",
+"Furigana": "いぶんか",
+"Romaji": "ibunka",
+"Meaning": "Budaya yang berbeda",
+"Type": "Noun"
+},
+{
+"Vocabulary": "異民族",
+"Furigana": "いみんぞく",
+"Romaji": "iminzoku",
+"Meaning": "Etnis / Suku bangsa yang berbeda",
+"Type": "Noun"
+},
+{
+"Vocabulary": "異業種",
+"Furigana": "いぎょうしゅ",
+"Romaji": "igyoushu",
+"Meaning": "Industri / Jenis bisnis yang berbeda",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大地震",
+"Furigana": "おおじしん",
+"Romaji": "oojishin",
+"Meaning": "Gempa bumi besar",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大掃除",
+"Furigana": "おおそうじ",
+"Romaji": "oosouji",
+"Meaning": "Bersih-bersih besar-besaran",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大けが",
+"Furigana": "おおけが",
+"Romaji": "ookega",
+"Meaning": "Luka parah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大雨",
+"Furigana": "おおあめ",
+"Romaji": "ooame",
+"Meaning": "Hujan deras",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大人数",
+"Furigana": "おおにんずう",
+"Romaji": "ooninzuu",
+"Meaning": "Banyak orang (jumlah besar)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大騒ぎ",
+"Furigana": "おおさわぎ",
+"Romaji": "oosawagi",
+"Meaning": "Keributan besar / Heboh",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大違い",
+"Furigana": "おおちがい",
+"Romaji": "oochigai",
+"Meaning": "Perbedaan besar",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大急ぎ",
+"Furigana": "おおいそぎ",
+"Romaji": "ooisogi",
+"Meaning": "Sangat terburu-buru",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大忙し",
+"Furigana": "おおいそがし",
+"Romaji": "ooisogashi",
+"Meaning": "Sangat sibuk",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大家族",
+"Furigana": "だいかぞく",
+"Romaji": "daikazoku",
+"Meaning": "Keluarga besar",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大問題",
+"Furigana": "だいもんだい",
+"Romaji": "daimondai",
+"Meaning": "Masalah besar",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大部分",
+"Furigana": "だいぶぶん",
+"Romaji": "daibubun",
+"Meaning": "Sebagian besar / Mayoritas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大画面",
+"Furigana": "だいがめん",
+"Romaji": "daigamen",
+"Meaning": "Layar besar",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大成功",
+"Furigana": "だいせいこう",
+"Romaji": "daiseikou",
+"Meaning": "Kesuksesan besar",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大満足",
+"Furigana": "だいまんぞく",
+"Romaji": "daimanzoku",
+"Meaning": "Sangat puas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大人気",
+"Furigana": "だいにんき",
+"Romaji": "daininki",
+"Meaning": "Sangat populer",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大流行",
+"Furigana": "だいりゅうこう",
+"Romaji": "dairyuukou",
+"Meaning": "Sangat tren / Wabah besar",
+"Type": "Noun"
+},
+{
+"Vocabulary": "大活躍",
+"Furigana": "だいかつやく",
+"Romaji": "daikatsuyaku",
+"Meaning": "Sukses besar / Peran aktif yang besar",
+"Type": "Noun"
+},
+{
+"Vocabulary": "小部屋",
+"Furigana": "こべや",
+"Romaji": "kobeya",
+"Meaning": "Kamar kecil",
+"Type": "Noun"
+},
+{
+"Vocabulary": "小箱",
+"Furigana": "こばこ",
+"Romaji": "kobako",
+"Meaning": "Kotak kecil",
+"Type": "Noun"
+},
+{
+"Vocabulary": "小窓",
+"Furigana": "こまど",
+"Romaji": "komado",
+"Meaning": "Jendela kecil",
+"Type": "Noun"
+},
+{
+"Vocabulary": "小皿",
+"Furigana": "こざら",
+"Romaji": "kozara",
+"Meaning": "Piring kecil",
+"Type": "Noun"
+},
+{
+"Vocabulary": "小石",
+"Furigana": "こいし",
+"Romaji": "koishi",
+"Meaning": "Batu kerikil",
+"Type": "Noun"
+},
+{
+"Vocabulary": "小鳥",
+"Furigana": "ことり",
+"Romaji": "kotori",
+"Meaning": "Burung kecil",
+"Type": "Noun"
+},
+{
+"Vocabulary": "小枝",
+"Furigana": "こえだ",
+"Romaji": "koeda",
+"Meaning": "Ranting kecil",
+"Type": "Noun"
+},
+{
+"Vocabulary": "小太り",
+"Furigana": "こぶとり",
+"Romaji": "kobutori",
+"Meaning": "Agak gemuk / Gempal",
+"Type": "Noun"
+},
+{
+"Vocabulary": "高収入",
+"Furigana": "こうしゅうにゅう",
+"Romaji": "koushuunyuu",
+"Meaning": "Pendapatan tinggi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "高学歴",
+"Furigana": "こうがくれき",
+"Romaji": "kougakureki",
+"Meaning": "Pendidikan tinggi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "高血圧",
+"Furigana": "こうけつあつ",
+"Romaji": "kouketsuatsu",
+"Meaning": "Tekanan darah tinggi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "高カロリー",
+"Furigana": "こうかろりー",
+"Romaji": "koukarorii",
+"Meaning": "Tinggi kalori",
+"Type": "Noun"
+},
+{
+"Vocabulary": "高性能",
+"Furigana": "こうせいのう",
+"Romaji": "kouseinou",
+"Meaning": "Kinerja tinggi / Performa tinggi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "高機能",
+"Furigana": "こうきのう",
+"Romaji": "koukinou",
+"Meaning": "Fungsi tinggi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "低レベル",
+"Furigana": "ていれべる",
+"Romaji": "teireberu",
+"Meaning": "Level rendah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "低価格",
+"Furigana": "ていかかく",
+"Romaji": "teikakaku",
+"Meaning": "Harga rendah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "低血圧",
+"Furigana": "ていけつあつ",
+"Romaji": "teiketsuatsu",
+"Meaning": "Tekanan darah rendah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "低カロリー",
+"Furigana": "ていかろりー",
+"Romaji": "teikarorii",
+"Meaning": "Rendah kalori",
+"Type": "Noun"
+},
+{
+"Vocabulary": "長持ち",
+"Furigana": "ながもち",
+"Romaji": "nagamochi",
+"Meaning": "Tahan lama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "長続き",
+"Furigana": "ながつづき",
+"Romaji": "nagatsuzuki",
+"Meaning": "Berlangsung lama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "長電話",
+"Furigana": "ながでんわ",
+"Romaji": "nagadenwa",
+"Meaning": "Telepon lama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "長旅",
+"Furigana": "ながたび",
+"Romaji": "nagatabi",
+"Meaning": "Perjalanan panjang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "長そで",
+"Furigana": "ながそで",
+"Romaji": "nagasode",
+"Meaning": "Lengan panjang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "長距離",
+"Furigana": "ちょうきょり",
+"Romaji": "choukyori",
+"Meaning": "Jarak jauh",
+"Type": "Noun"
+},
+{
+"Vocabulary": "長期間",
+"Furigana": "ちょうきかん",
+"Romaji": "choukikan",
+"Meaning": "Jangka waktu panjang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "長時間",
+"Furigana": "ちょうじかん",
+"Romaji": "choujikan",
+"Meaning": "Waktu yang lama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "短距離",
+"Furigana": "たんきょり",
+"Romaji": "tankyori",
+"Meaning": "Jarak pendek",
+"Type": "Noun"
+},
+{
+"Vocabulary": "短期間",
+"Furigana": "たんきかん",
+"Romaji": "tankikan",
+"Meaning": "Jangka waktu pendek",
+"Type": "Noun"
+},
+{
+"Vocabulary": "短時間",
+"Furigana": "たんじかん",
+"Romaji": "tanjikan",
+"Meaning": "Waktu yang singkat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "多目的",
+"Furigana": "たもくてき",
+"Romaji": "tamokuteki",
+"Meaning": "Serbaguna / Multi-tujuan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "多趣味",
+"Furigana": "たしゅみ",
+"Romaji": "tashumi",
+"Meaning": "Punya banyak hobi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "多人数",
+"Furigana": "たにんずう",
+"Romaji": "taninzuu",
+"Meaning": "Banyak orang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "多方面",
+"Furigana": "たほうめん",
+"Romaji": "tahoumen",
+"Meaning": "Banyak arah / Berbagai bidang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "多量",
+"Furigana": "たりょう",
+"Romaji": "taryou",
+"Meaning": "Jumlah yang banyak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "多国籍",
+"Furigana": "たこくせき",
+"Romaji": "takokuseki",
+"Meaning": "Multinasional",
+"Type": "Noun"
+},
+{
+"Vocabulary": "多用途",
+"Furigana": "たようと",
+"Romaji": "tayouto",
+"Meaning": "Beragam penggunaan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "少人数",
+"Furigana": "しょうにんずう",
+"Romaji": "shouninzuu",
+"Meaning": "Sedikit orang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "少量",
+"Furigana": "しょうりょう",
+"Romaji": "shouryou",
+"Meaning": "Jumlah sedikit",
+"Type": "Noun"
+},
+{
+"Vocabulary": "重労働",
+"Furigana": "じゅうろうどう",
+"Romaji": "juuroudou",
+"Meaning": "Kerja berat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "重工業",
+"Furigana": "じゅうこうぎょう",
+"Romaji": "juukougyou",
+"Meaning": "Industri berat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "重金属",
+"Furigana": "じゅうきんぞく",
+"Romaji": "juukinzoku",
+"Meaning": "Logam berat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "軽自動車",
+"Furigana": "けいじどうしゃ",
+"Romaji": "keijidousha",
+"Meaning": "Mobil ringan (Kei car)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "軽音楽",
+"Furigana": "けいおんがく",
+"Romaji": "keiongaku",
+"Meaning": "Musik ringan / Pop",
+"Type": "Noun"
+},
+{
+"Vocabulary": "軽工業",
+"Furigana": "けいこうぎょう",
+"Romaji": "keikougyou",
+"Meaning": "Industri ringan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "軽金属",
+"Furigana": "けいきんぞく",
+"Romaji": "keikinzoku",
+"Meaning": "Logam ringan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "軽犯罪",
+"Furigana": "けいはんざい",
+"Romaji": "keihanzai",
+"Meaning": "Pelanggaran ringan / Tindak pidana ringan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "悪趣味",
+"Furigana": "あくしゅみ",
+"Romaji": "akushumi",
+"Meaning": "Selera buruk",
+"Type": "Noun"
+},
+{
+"Vocabulary": "悪条件",
+"Furigana": "あくじょうけん",
+"Romaji": "akujouken",
+"Meaning": "Kondisi buruk",
+"Type": "Noun"
+},
+{
+"Vocabulary": "悪影響",
+"Furigana": "あくえいきょう",
+"Romaji": "akueikyou",
+"Meaning": "Pengaruh buruk",
+"Type": "Noun"
+},
+{
+"Vocabulary": "悪天候",
+"Furigana": "あくてんこう",
+"Romaji": "akutenkou",
+"Meaning": "Cuaca buruk",
+"Type": "Noun"
+},
+{
+"Vocabulary": "好成績",
+"Furigana": "こうせいせき",
+"Romaji": "kouseiseki",
+"Meaning": "Nilai bagus / Hasil baik",
+"Type": "Noun"
+},
+{
+"Vocabulary": "好都合",
+"Furigana": "こうつごう",
+"Romaji": "koutsugou",
+"Meaning": "Sangat menguntungkan / Sesuai harapan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "好青年",
+"Furigana": "こうせいねん",
+"Romaji": "kouseinen",
+"Meaning": "Pemuda yang baik",
+"Type": "Noun"
+},
+{
+"Vocabulary": "好条件",
+"Furigana": "こうじょうけん",
+"Romaji": "koujouken",
+"Meaning": "Kondisi yang menguntungkan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "好景気",
+"Furigana": "こうけいき",
+"Romaji": "koukeiki",
+"Meaning": "Ekonomi yang baik / Booming",
+"Type": "Noun"
+},
+{
+"Vocabulary": "好印象",
+"Furigana": "こういんしょう",
+"Romaji": "kouinshou",
+"Meaning": "Kesan baik",
+"Type": "Noun"
+},
+{
+"Vocabulary": "好対照",
+"Furigana": "こうたいしょう",
+"Romaji": "koutaishou",
+"Meaning": "Kontras yang bagus",
+"Type": "Noun"
+},
+{
+"Vocabulary": "新発売",
+"Furigana": "しんはつばい",
+"Romaji": "shinhatsubai",
+"Meaning": "Rilis baru / Mulai dijual",
+"Type": "Noun"
+},
+{
+"Vocabulary": "新技術",
+"Furigana": "しんぎじゅつ",
+"Romaji": "shingijutsu",
+"Meaning": "Teknologi baru",
+"Type": "Noun"
+},
+{
+"Vocabulary": "新政府",
+"Furigana": "しんせいふ",
+"Romaji": "shinseifu",
+"Meaning": "Pemerintahan baru",
+"Type": "Noun"
+},
+{
+"Vocabulary": "新記録",
+"Furigana": "しんきろく",
+"Romaji": "shinkiroku",
+"Meaning": "Rekor baru",
+"Type": "Noun"
+},
+{
+"Vocabulary": "新学期",
+"Furigana": "しんがっき",
+"Romaji": "shingakki",
+"Meaning": "Semester baru",
+"Type": "Noun"
+},
+{
+"Vocabulary": "新年度",
+"Furigana": "しんねんど",
+"Romaji": "shinnendo",
+"Meaning": "Tahun ajaran baru / Tahun fiskal baru",
+"Type": "Noun"
+},
+{
+"Vocabulary": "新商品",
+"Furigana": "しんしょうひん",
+"Romaji": "shinshouhin",
+"Meaning": "Produk baru (barang jualan)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "新製品",
+"Furigana": "しんせいひん",
+"Romaji": "shinseihin",
+"Meaning": "Produk manufaktur baru",
+"Type": "Noun"
+},
+{
+"Vocabulary": "新体制",
+"Furigana": "しんたいせい",
+"Romaji": "shintaisei",
+"Meaning": "Sistem baru / Struktur organisasi baru",
+"Type": "Noun"
+},
+{
+"Vocabulary": "旧正月",
+"Furigana": "きゅうしょうがつ",
+"Romaji": "kyuushougatsu",
+"Meaning": "Tahun Baru Imlek",
+"Type": "Noun"
+},
+{
+"Vocabulary": "旧体制",
+"Furigana": "きゅうたいせい",
+"Romaji": "kyuutaisei",
+"Meaning": "Sistem lama / Rezim lama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "旧市街",
+"Furigana": "きゅうしがい",
+"Romaji": "kyuushigai",
+"Meaning": "Kota tua",
+"Type": "Noun"
+},
+{
+"Vocabulary": "旧姓",
+"Furigana": "きゅうせい",
+"Romaji": "kyuusei",
+"Meaning": "Nama gadis / Nama keluarga sebelum menikah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "古新聞",
+"Furigana": "ふるしんぶん",
+"Romaji": "furushinbun",
+"Meaning": "Koran bekas / Koran lama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "古時計",
+"Furigana": "ふるどけい",
+"Romaji": "furudokei",
+"Meaning": "Jam tua / Jam antik",
+"Type": "Noun"
+},
+{
+"Vocabulary": "古本",
+"Furigana": "ふるほん",
+"Romaji": "furuhon",
+"Meaning": "Buku bekas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "急成長",
+"Furigana": "きゅうせいちょう",
+"Romaji": "kyuuseichou",
+"Meaning": "Pertumbuhan pesat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "急展開",
+"Furigana": "きゅうてんかい",
+"Romaji": "kyuutenkai",
+"Meaning": "Perkembangan mendadak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "急上昇",
+"Furigana": "きゅうじょうしょう",
+"Romaji": "kyuujoushou",
+"Meaning": "Peningkatan tajam",
+"Type": "Noun"
+},
+{
+"Vocabulary": "急接近",
+"Furigana": "きゅうせっきん",
+"Romaji": "kyuusekkin",
+"Meaning": "Pendekatan cepat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "急ブレーキ",
+"Furigana": "きゅうぶれーき",
+"Romaji": "kyuubureeki",
+"Meaning": "Rem mendadak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "急カーブ",
+"Furigana": "きゅうかーぶ",
+"Romaji": "kyuukaabu",
+"Meaning": "Tikungan tajam",
+"Type": "Noun"
+},
+{
+"Vocabulary": "急テンポ",
+"Furigana": "きゅうてんぽ",
+"Romaji": "kyuutenpo",
+"Meaning": "Tempo cepat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "両手",
+"Furigana": "りょうて",
+"Romaji": "ryoute",
+"Meaning": "Kedua tangan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "両足",
+"Furigana": "りょうあし",
+"Romaji": "ryouashi",
+"Meaning": "Kedua kaki",
+"Type": "Noun"
+},
+{
+"Vocabulary": "両目",
+"Furigana": "りょうめ",
+"Romaji": "ryoume",
+"Meaning": "Kedua mata",
+"Type": "Noun"
+},
+{
+"Vocabulary": "両耳",
+"Furigana": "りょうみみ",
+"Romaji": "ryoumimi",
+"Meaning": "Kedua telinga",
+"Type": "Noun"
+},
+{
+"Vocabulary": "両方向",
+"Furigana": "りょうほうこう",
+"Romaji": "ryouhoukou",
+"Meaning": "Kedua arah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "両チーム",
+"Furigana": "りょうちーむ",
+"Romaji": "ryouchiimu",
+"Meaning": "Kedua tim",
+"Type": "Noun"
+},
+{
+"Vocabulary": "両ひざ",
+"Furigana": "りょうひざ",
+"Romaji": "ryouhiza",
+"Meaning": "Kedua lutut",
+"Type": "Noun"
+},
+{
+"Vocabulary": "両わき",
+"Furigana": "りょうわき",
+"Romaji": "ryouwaki",
+"Meaning": "Kedua ketiak / Kedua sisi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "片手",
+"Furigana": "かたて",
+"Romaji": "katate",
+"Meaning": "Satu tangan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "片足",
+"Furigana": "かたあし",
+"Romaji": "kataashi",
+"Meaning": "Satu kaki",
+"Type": "Noun"
+},
+{
+"Vocabulary": "片目",
+"Furigana": "かため",
+"Romaji": "katame",
+"Meaning": "Sebelah mata",
+"Type": "Noun"
+},
+{
+"Vocabulary": "片耳",
+"Furigana": "かたみみ",
+"Romaji": "katamimi",
+"Meaning": "Sebelah telinga",
+"Type": "Noun"
+},
+{
+"Vocabulary": "片ひざ",
+"Furigana": "かたひざ",
+"Romaji": "katahiza",
+"Meaning": "Satu lutut",
+"Type": "Noun"
+},
+{
+"Vocabulary": "初登場",
+"Furigana": "はつとうじょう",
+"Romaji": "hatsutoujou",
+"Meaning": "Penampilan pertama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "初体験",
+"Furigana": "はつたいけん",
+"Romaji": "hatsutaiken",
+"Meaning": "Pengalaman pertama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "初優勝",
+"Furigana": "はつゆうしょう",
+"Romaji": "hatsuyuushou",
+"Meaning": "Kemenangan pertama / Kejuaraan pertama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "初出場",
+"Furigana": "はつしゅつじょう",
+"Romaji": "hatsushutsujou",
+"Meaning": "Partisipasi pertama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "初公開",
+"Furigana": "はつこうかい",
+"Romaji": "hatsukoukai",
+"Meaning": "Rilis pertama kepada publik",
+"Type": "Noun"
+},
+{
+"Vocabulary": "初舞台",
+"Furigana": "はつぶたい",
+"Romaji": "hatsubutai",
+"Meaning": "Pentas perdana / Debut panggung",
+"Type": "Noun"
+},
+{
+"Vocabulary": "再開発",
+"Furigana": "さいかいはつ",
+"Romaji": "saikaihatsu",
+"Meaning": "Pembangunan kembali",
+"Type": "Noun"
+},
+{
+"Vocabulary": "再就職",
+"Furigana": "さいしゅうしょく",
+"Romaji": "saishuushoku",
+"Meaning": "Bekerja kembali (di tempat baru)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "再利用",
+"Furigana": "さいりよう",
+"Romaji": "sairiyou",
+"Meaning": "Daur ulang / Penggunaan kembali",
+"Type": "Noun"
+},
+{
+"Vocabulary": "再出発",
+"Furigana": "さいしゅっぱつ",
+"Romaji": "saishuppatsu",
+"Meaning": "Memulai kembali dari awal",
+"Type": "Noun"
+},
+{
+"Vocabulary": "再放送",
+"Furigana": "さいほうそう",
+"Romaji": "saihousou",
+"Meaning": "Siaran ulang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "再確認",
+"Furigana": "さいかくにん",
+"Romaji": "saikakunin",
+"Meaning": "Konfirmasi ulang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "再発見",
+"Furigana": "さいはっけん",
+"Romaji": "saihakken",
+"Meaning": "Penemuan kembali",
+"Type": "Noun"
+},
+{
+"Vocabulary": "主原料",
+"Furigana": "しゅげんりょう",
+"Romaji": "shugenryou",
+"Meaning": "Bahan baku utama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "主成分",
+"Furigana": "しゅせいぶん",
+"Romaji": "shuseibun",
+"Meaning": "Komponen utama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "主産地",
+"Furigana": "しゅさんち",
+"Romaji": "shusanchi",
+"Meaning": "Daerah produksi utama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "副社長",
+"Furigana": "ふくしゃちょう",
+"Romaji": "fukushachou",
+"Meaning": "Wakil presiden direktur",
+"Type": "Noun"
+},
+{
+"Vocabulary": "副収入",
+"Furigana": "ふくしゅうにゅう",
+"Romaji": "fukushuunyuu",
+"Meaning": "Pendapatan sampingan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "副作用",
+"Furigana": "ふくさよう",
+"Romaji": "fukusayou",
+"Meaning": "Efek samping",
+"Type": "Noun"
+},
+{
+"Vocabulary": "副都心",
+"Furigana": "ふくとしん",
+"Romaji": "fukutoshin",
+"Meaning": "Pusat kota sekunder / Sub-pusat kota",
+"Type": "Noun"
+},
+{
+"Vocabulary": "同年齢",
+"Furigana": "どうねんれい",
+"Romaji": "dounenrei",
+"Meaning": "Usia yang sama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "同価格",
+"Furigana": "どうかかく",
+"Romaji": "doukakaku",
+"Meaning": "Harga yang sama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "同程度",
+"Furigana": "どうていど",
+"Romaji": "douteido",
+"Meaning": "Tingkat yang sama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "同世代",
+"Furigana": "どうせだい",
+"Romaji": "dousedai",
+"Meaning": "Generasi yang sama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "同業者",
+"Furigana": "どうぎょうしゃ",
+"Romaji": "dougyousha",
+"Meaning": "Orang di industri yang sama / Rekan seprofesi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "最重要",
+"Furigana": "さいじゅうよう",
+"Romaji": "saijuuyou",
+"Meaning": "Paling penting",
+"Type": "Noun"
+},
+{
+"Vocabulary": "最前列",
+"Furigana": "さいぜんれつ",
+"Romaji": "saizenretsu",
+"Meaning": "Barisan paling depan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "最優先",
+"Furigana": "さいゆうせん",
+"Romaji": "saiyuusen",
+"Meaning": "Prioritas utama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "最有力",
+"Furigana": "さいゆうりょく",
+"Romaji": "saiyuuryoku",
+"Meaning": "Kandidat paling kuat / Paling mungkin",
+"Type": "Noun"
+},
+{
+"Vocabulary": "超高級",
+"Furigana": "ちょうこうきゅう",
+"Romaji": "choukoukyuu",
+"Meaning": "Sangat mewah / Kelas sangat tinggi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "超満員",
+"Furigana": "ちょうまんいん",
+"Romaji": "choumanin",
+"Meaning": "Sangat penuh sesak (oleh orang)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "超一流",
+"Furigana": "ちょういちりゅう",
+"Romaji": "chouichiryuu",
+"Meaning": "Papan atas / Elite tingkat tinggi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "超小型",
+"Furigana": "ちょうこがた",
+"Romaji": "choukogata",
+"Meaning": "Sangat kecil / Ultra-kompak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "超大型",
+"Furigana": "ちょうおおがた",
+"Romaji": "chouoogata",
+"Meaning": "Sangat besar / Raksasa",
+"Type": "Noun"
+},
+{
+"Vocabulary": "超高層ビル",
+"Furigana": "ちょうこうそうびる",
+"Romaji": "choukousoubiru",
+"Meaning": "Gedung pencakar langit sangat tinggi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "超大作",
+"Furigana": "ちょうたいさく",
+"Romaji": "choutaisaku",
+"Meaning": "Karya epik / Blockbuster",
+"Type": "Noun"
+},
+{
+"Vocabulary": "名女優",
+"Furigana": "めいじょゆう",
+"Romaji": "meijoyuu",
+"Meaning": "Aktris terkenal",
+"Type": "Noun"
+},
+{
+"Vocabulary": "名選手",
+"Furigana": "めいせんしゅ",
+"Romaji": "meisenshu",
+"Meaning": "Pemain bintang / Atlet terkenal",
+"Type": "Noun"
+},
+{
+"Vocabulary": "名場面",
+"Furigana": "めいばめん",
+"Romaji": "meibamen",
+"Meaning": "Adegan terkenal",
+"Type": "Noun"
+},
+{
+"Vocabulary": "名勝負",
+"Furigana": "めいしょうぶ",
+"Romaji": "meishoubu",
+"Meaning": "Pertandingan hebat yang bersejarah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "名曲",
+"Furigana": "めいきょく",
+"Romaji": "meikyoku",
+"Meaning": "Lagu terkenal / Mahakarya musik",
+"Type": "Noun"
+},
+{
+"Vocabulary": "名演技",
+"Furigana": "めいえんぎ",
+"Romaji": "meiengi",
+"Meaning": "Akting yang hebat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "名セリフ",
+"Furigana": "めいせりふ",
+"Romaji": "meiserifu",
+"Meaning": "Dialog / Kutipan terkenal",
+"Type": "Noun"
+},
+{
+"Vocabulary": "半ズボン",
+"Furigana": "はんずぼん",
+"Romaji": "hanzubon",
+"Meaning": "Celana pendek",
+"Type": "Noun"
+},
+{
+"Vocabulary": "半世紀",
+"Furigana": "はんせいき",
+"Romaji": "hanseiki",
+"Meaning": "Setengah abad",
+"Type": "Noun"
+},
+{
+"Vocabulary": "半そで",
+"Furigana": "はんそで",
+"Romaji": "hansode",
+"Meaning": "Lengan pendek",
+"Type": "Noun"
+},
+{
+"Vocabulary": "半透明",
+"Furigana": "はんとうめい",
+"Romaji": "hantoumei",
+"Meaning": "Bening / Tembus cahaya sebagian (Translucent)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "半永久的",
+"Furigana": "はんえいきゅうてき",
+"Romaji": "haneikyuuteki",
+"Meaning": "Semi-permanen",
+"Type": "Noun"
+},
+{
+"Vocabulary": "生放送",
+"Furigana": "なまほうそう",
+"Romaji": "namahousou",
+"Meaning": "Siaran langsung",
+"Type": "Noun"
+},
+{
+"Vocabulary": "生演奏",
+"Furigana": "なまえんそう",
+"Romaji": "namaensou",
+"Meaning": "Pertunjukan musik langsung",
+"Type": "Noun"
+},
+{
+"Vocabulary": "生出演",
+"Furigana": "なましゅつえん",
+"Romaji": "namashutsuen",
+"Meaning": "Penampilan langsung",
+"Type": "Noun"
 }
 ]
