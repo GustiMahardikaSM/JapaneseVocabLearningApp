@@ -12382,5 +12382,1894 @@
 "Romaji": "namashutsuen",
 "Meaning": "Penampilan langsung",
 "Type": "Noun"
+},
+{"Vocabulary": "研究者",
+"Furigana": "けんきゅうしゃ",
+"Romaji": "kenkyuusha",
+"Meaning": "Peneliti",
+"Type": "Noun"
+},
+{
+"Vocabulary": "技術者",
+"Furigana": "ぎじゅつしゃ",
+"Romaji": "gijutsusha",
+"Meaning": "Teknisi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "労働者",
+"Furigana": "ろうどうしゃ",
+"Romaji": "roudousha",
+"Meaning": "Pekerja / Buruh",
+"Type": "Noun"
+},
+{
+"Vocabulary": "科学者",
+"Furigana": "かがくしゃ",
+"Romaji": "kagakusha",
+"Meaning": "Ilmuwan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "編集者",
+"Furigana": "へんしゅうしゃ",
+"Romaji": "henshuusha",
+"Meaning": "Editor",
+"Type": "Noun"
+},
+{
+"Vocabulary": "政治家",
+"Furigana": "せいじか",
+"Romaji": "seijika",
+"Meaning": "Politikus",
+"Type": "Noun"
+},
+{
+"Vocabulary": "小説家",
+"Furigana": "しょうせつか",
+"Romaji": "shousetsuka",
+"Meaning": "Novelis",
+"Type": "Noun"
+},
+{
+"Vocabulary": "芸術家",
+"Furigana": "げいじゅつか",
+"Romaji": "geijutsuka",
+"Meaning": "Seniman",
+"Type": "Noun"
+},
+{
+"Vocabulary": "写真家",
+"Furigana": "しゃしんか",
+"Romaji": "shashinka",
+"Meaning": "Fotografer",
+"Type": "Noun"
+},
+{
+"Vocabulary": "作曲家",
+"Furigana": "さっきょくか",
+"Romaji": "sakkyokuka",
+"Meaning": "Komposer",
+"Type": "Noun"
+},
+{
+"Vocabulary": "音楽家",
+"Furigana": "おんがくか",
+"Romaji": "ongakuka",
+"Meaning": "Musisi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "建築家",
+"Furigana": "けんちくか",
+"Romaji": "kenchikuka",
+"Meaning": "Arsitek",
+"Type": "Noun"
+},
+{
+"Vocabulary": "専門家",
+"Furigana": "せんもんか",
+"Romaji": "senmonka",
+"Meaning": "Pakar / Ahli",
+"Type": "Noun"
+},
+{
+"Vocabulary": "評論家",
+"Furigana": "ひょうろんか",
+"Romaji": "hyouronka",
+"Meaning": "Kritikus",
+"Type": "Noun"
+},
+{
+"Vocabulary": "運転士",
+"Furigana": "うんてんし",
+"Romaji": "untenshi",
+"Meaning": "Masinis / Pengemudi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "建築士",
+"Furigana": "けんちくし",
+"Romaji": "kenchikushi",
+"Meaning": "Arsitek (bersertifikat)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "弁護士",
+"Furigana": "べんごし",
+"Romaji": "bengoshi",
+"Meaning": "Pengacara",
+"Type": "Noun"
+},
+{
+"Vocabulary": "会計士",
+"Furigana": "かいけいし",
+"Romaji": "kaikeishi",
+"Meaning": "Akuntan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "宇宙飛行士",
+"Furigana": "うちゅうひこうし",
+"Romaji": "uchuuhikoushi",
+"Meaning": "Astronot",
+"Type": "Noun"
+},
+{
+"Vocabulary": "消防士",
+"Furigana": "しょうぼうし",
+"Romaji": "shouboushi",
+"Meaning": "Pemadam kebakaran",
+"Type": "Noun"
+},
+{
+"Vocabulary": "研究員",
+"Furigana": "けんきゅういん",
+"Romaji": "kenkyuuin",
+"Meaning": "Anggota peneliti",
+"Type": "Noun"
+},
+{
+"Vocabulary": "公務員",
+"Furigana": "こうむいん",
+"Romaji": "koumuin",
+"Meaning": "Pegawai negeri",
+"Type": "Noun"
+},
+{
+"Vocabulary": "銀行員",
+"Furigana": "ぎんこういん",
+"Romaji": "ginkouin",
+"Meaning": "Pegawai bank",
+"Type": "Noun"
+},
+{
+"Vocabulary": "会社員",
+"Furigana": "かいしゃいん",
+"Romaji": "kaishain",
+"Meaning": "Pegawai perusahaan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "警備員",
+"Furigana": "けいびいん",
+"Romaji": "keibiin",
+"Meaning": "Penjaga keamanan / Satpam",
+"Type": "Noun"
+},
+{
+"Vocabulary": "警察官",
+"Furigana": "けいさつかん",
+"Romaji": "keisatsukan",
+"Meaning": "Petugas polisi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "試験官",
+"Furigana": "しけんかん",
+"Romaji": "shikenkan",
+"Meaning": "Penguji",
+"Type": "Noun"
+},
+{
+"Vocabulary": "裁判官",
+"Furigana": "さいばんかん",
+"Romaji": "saibankan",
+"Meaning": "Hakim",
+"Type": "Noun"
+},
+{
+"Vocabulary": "外交官",
+"Furigana": "がいこうかん",
+"Romaji": "gaikoukan",
+"Meaning": "Diplomat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "調理師",
+"Furigana": "ちょうりし",
+"Romaji": "chourishi",
+"Meaning": "Juru masak / Koki",
+"Type": "Noun"
+},
+{
+"Vocabulary": "手品師",
+"Furigana": "てじなし",
+"Romaji": "tejinashi",
+"Meaning": "Pesulap",
+"Type": "Noun"
+},
+{
+"Vocabulary": "美容師",
+"Furigana": "びようし",
+"Romaji": "biyoushi",
+"Meaning": "Penata rambut / Ahli kecantikan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "看護師",
+"Furigana": "かんごし",
+"Romaji": "kangoshi",
+"Meaning": "Perawat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "自由業",
+"Furigana": "じゆうぎょう",
+"Romaji": "jiyuugyou",
+"Meaning": "Pekerja lepas / Pekerjaan bebas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "サービス業",
+"Furigana": "さーびすぎょう",
+"Romaji": "saabisugyou",
+"Meaning": "Industri jasa",
+"Type": "Noun"
+},
+{
+"Vocabulary": "観光業",
+"Furigana": "かんこうぎょう",
+"Romaji": "kankougyou",
+"Meaning": "Industri pariwisata",
+"Type": "Noun"
+},
+{
+"Vocabulary": "印刷業",
+"Furigana": "いんさつぎょう",
+"Romaji": "insatsugyou",
+"Meaning": "Industri percetakan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "広告業",
+"Furigana": "こうこくぎょう",
+"Romaji": "koukokugyou",
+"Meaning": "Industri periklanan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "建設業",
+"Furigana": "けんせつぎょう",
+"Romaji": "kensetsugyou",
+"Meaning": "Industri konstruksi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "自営業",
+"Furigana": "じえいぎょう",
+"Romaji": "jieigyou",
+"Meaning": "Wiraswasta / Usaha mandiri",
+"Type": "Noun"
+},
+{
+"Vocabulary": "製造業",
+"Furigana": "せいぞうぎょう",
+"Romaji": "seizougyou",
+"Meaning": "Industri manufaktur",
+"Type": "Noun"
+},
+{
+"Vocabulary": "入場料",
+"Furigana": "にゅうじょうりょう",
+"Romaji": "nyuujouryou",
+"Meaning": "Biaya masuk",
+"Type": "Noun"
+},
+{
+"Vocabulary": "授業料",
+"Furigana": "じゅぎょうりょう",
+"Romaji": "jugyouryou",
+"Meaning": "Biaya pendidikan / Uang kuliah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "使用料",
+"Furigana": "しようりょう",
+"Romaji": "shiyouryou",
+"Meaning": "Biaya pemakaian",
+"Type": "Noun"
+},
+{
+"Vocabulary": "利用料",
+"Furigana": "りようりょう",
+"Romaji": "riyouryou",
+"Meaning": "Biaya penggunaan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "保険料",
+"Furigana": "ほけんりょう",
+"Romaji": "hokenryou",
+"Meaning": "Premi asuransi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "宿泊料",
+"Furigana": "しゅくはくりょう",
+"Romaji": "shukuhakuryou",
+"Meaning": "Biaya menginap",
+"Type": "Noun"
+},
+{
+"Vocabulary": "手数料",
+"Furigana": "てすうりょう",
+"Romaji": "tesuuryou",
+"Meaning": "Biaya layanan / Komisi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "食事代",
+"Furigana": "しょくじだい",
+"Romaji": "shokujidai",
+"Meaning": "Uang makan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "部屋代",
+"Furigana": "へやだい",
+"Romaji": "heyadai",
+"Meaning": "Uang sewa kamar",
+"Type": "Noun"
+},
+{
+"Vocabulary": "タクシー代",
+"Furigana": "たくしーだい",
+"Romaji": "takushiidai",
+"Meaning": "Ongkos taksi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "バイト代",
+"Furigana": "ばいとだい",
+"Romaji": "baitodai",
+"Meaning": "Upah kerja paruh waktu",
+"Type": "Noun"
+},
+{
+"Vocabulary": "電話代",
+"Furigana": "でんわだい",
+"Romaji": "denwadai",
+"Meaning": "Tagihan telepon",
+"Type": "Noun"
+},
+{
+"Vocabulary": "ガス代",
+"Furigana": "がすだい",
+"Romaji": "gasudai",
+"Meaning": "Tagihan gas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "修理代",
+"Furigana": "しゅうりだい",
+"Romaji": "shuuridai",
+"Meaning": "Biaya perbaikan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "電気代",
+"Furigana": "でんきだい",
+"Romaji": "denkidai",
+"Meaning": "Tagihan listrik",
+"Type": "Noun"
+},
+{
+"Vocabulary": "生活費",
+"Furigana": "せいかつひ",
+"Romaji": "seikatsuhi",
+"Meaning": "Biaya hidup",
+"Type": "Noun"
+},
+{
+"Vocabulary": "交通費",
+"Furigana": "こうつうひ",
+"Romaji": "koutsuuhi",
+"Meaning": "Biaya transportasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "製作費",
+"Furigana": "せいさくひ",
+"Romaji": "seisakuhi",
+"Meaning": "Biaya produksi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "宣伝費",
+"Furigana": "せんでんひ",
+"Romaji": "sendenhi",
+"Meaning": "Biaya promosi / Iklan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "交際費",
+"Furigana": "こうさいひ",
+"Romaji": "kousaihi",
+"Meaning": "Biaya hiburan / Relasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "光熱費",
+"Furigana": "こうねつひ",
+"Romaji": "kounetsuhi",
+"Meaning": "Biaya listrik dan pemanas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "入会金",
+"Furigana": "にゅうかいきん",
+"Romaji": "nyuukaikin",
+"Meaning": "Uang pangkal / pendaftaran keanggotaan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "入学金",
+"Furigana": "にゅうがくきん",
+"Romaji": "nyuugakukin",
+"Meaning": "Uang pendaftaran sekolah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "寄付金",
+"Furigana": "きふきん",
+"Romaji": "kifukin",
+"Meaning": "Uang donasi / Sumbangan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "奨学金",
+"Furigana": "しょうがくきん",
+"Romaji": "shougakukin",
+"Meaning": "Beasiswa",
+"Type": "Noun"
+},
+{
+"Vocabulary": "保証金",
+"Furigana": "ほしょうきん",
+"Romaji": "hoshoukin",
+"Meaning": "Uang jaminan / Deposit",
+"Type": "Noun"
+},
+{
+"Vocabulary": "観光地",
+"Furigana": "かんこうち",
+"Romaji": "kankouchi",
+"Meaning": "Tempat wisata",
+"Type": "Noun"
+},
+{
+"Vocabulary": "出身地",
+"Furigana": "しゅっしんち",
+"Romaji": "shusshinchi",
+"Meaning": "Tempat asal / Tempat lahir",
+"Type": "Noun"
+},
+{
+"Vocabulary": "住宅地",
+"Furigana": "じゅうたくち",
+"Romaji": "juutakuchi",
+"Meaning": "Daerah perumahan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "目的地",
+"Furigana": "もくてきち",
+"Romaji": "mokutekichi",
+"Meaning": "Tempat tujuan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "生産地",
+"Furigana": "せいさんち",
+"Romaji": "seisanchi",
+"Meaning": "Tempat produksi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "勤務地",
+"Furigana": "きんむち",
+"Romaji": "kinmuchi",
+"Meaning": "Tempat kerja",
+"Type": "Noun"
+},
+{
+"Vocabulary": "駐車場",
+"Furigana": "ちゅうしゃじょう",
+"Romaji": "chuushajou",
+"Meaning": "Tempat parkir",
+"Type": "Noun"
+},
+{
+"Vocabulary": "結婚式場",
+"Furigana": "けっこんしきじょう",
+"Romaji": "kekkonshikijou",
+"Meaning": "Tempat upacara pernikahan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "練習場",
+"Furigana": "れんしゅうじょう",
+"Romaji": "renshuujou",
+"Meaning": "Tempat latihan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "運動場",
+"Furigana": "うんどうじょう",
+"Romaji": "undoujou",
+"Meaning": "Lapangan olahraga",
+"Type": "Noun"
+},
+{
+"Vocabulary": "スキー場",
+"Furigana": "すきーじょう",
+"Romaji": "sukiijou",
+"Meaning": "Tempat bermain ski",
+"Type": "Noun"
+},
+{
+"Vocabulary": "ゴルフ場",
+"Furigana": "ごるふじょう",
+"Romaji": "gorufujou",
+"Meaning": "Lapangan golf",
+"Type": "Noun"
+},
+{
+"Vocabulary": "海水浴場",
+"Furigana": "かいすいよくじょう",
+"Romaji": "kaisuiyokujou",
+"Meaning": "Tempat pemandian laut / Pantai",
+"Type": "Noun"
+},
+{
+"Vocabulary": "競技場",
+"Furigana": "きょうぎじょう",
+"Romaji": "kyougijou",
+"Meaning": "Stadion / Tempat pertandingan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "研究所",
+"Furigana": "けんきゅうしょ",
+"Romaji": "kenkyuusho",
+"Meaning": "Pusat penelitian",
+"Type": "Noun"
+},
+{
+"Vocabulary": "案内所",
+"Furigana": "あんないしょ",
+"Romaji": "annaisho",
+"Meaning": "Tempat informasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "事務所",
+"Furigana": "じむしょ",
+"Romaji": "jimusho",
+"Meaning": "Kantor",
+"Type": "Noun"
+},
+{
+"Vocabulary": "保育所",
+"Furigana": "ほいくしょ",
+"Romaji": "hoikusho",
+"Meaning": "Tempat penitipan anak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "裁判所",
+"Furigana": "さいばんしょ",
+"Romaji": "saibansho",
+"Meaning": "Pengadilan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "保健所",
+"Furigana": "ほけんじょ",
+"Romaji": "hokenjo",
+"Meaning": "Pusat kesehatan masyarakat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "撮影所",
+"Furigana": "さつえいしょ",
+"Romaji": "satsueisho",
+"Meaning": "Studio syuting",
+"Type": "Noun"
+},
+{
+"Vocabulary": "洗面所",
+"Furigana": "せんめんじょ",
+"Romaji": "senmenjo",
+"Meaning": "Kamar kecil / Tempat cuci tangan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "発電所",
+"Furigana": "はつでんしょ",
+"Romaji": "hatsudensho",
+"Meaning": "Pembangkit listrik",
+"Type": "Noun"
+},
+{
+"Vocabulary": "警察署",
+"Furigana": "けいさつしょ",
+"Romaji": "keisatsusho",
+"Meaning": "Kantor polisi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "消防署",
+"Furigana": "しょうぼうしょ",
+"Romaji": "shoubousho",
+"Meaning": "Stasiun pemadam kebakaran",
+"Type": "Noun"
+},
+{
+"Vocabulary": "税務署",
+"Furigana": "ぜいむしょ",
+"Romaji": "zeimusho",
+"Meaning": "Kantor pajak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "住宅街",
+"Furigana": "じゅうたくがい",
+"Romaji": "juutakugai",
+"Meaning": "Kawasan perumahan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "温泉街",
+"Furigana": "おんせんがい",
+"Romaji": "onsengai",
+"Meaning": "Kota sumber air panas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "ビジネス街",
+"Furigana": "びじねすがい",
+"Romaji": "bijinesugai",
+"Meaning": "Kawasan bisnis",
+"Type": "Noun"
+},
+{
+"Vocabulary": "ショッピング街",
+"Furigana": "しょっぴんぐがい",
+"Romaji": "shoppingugai",
+"Meaning": "Kawasan perbelanjaan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "商店街",
+"Furigana": "しょうてんがい",
+"Romaji": "shoutengai",
+"Meaning": "Kawasan pertokoan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "オフィス街",
+"Furigana": "おふぃすがい",
+"Romaji": "ofisugai",
+"Meaning": "Kawasan perkantoran",
+"Type": "Noun"
+},
+{
+"Vocabulary": "官庁街",
+"Furigana": "かんちょうがい",
+"Romaji": "kanchougai",
+"Meaning": "Kawasan instansi pemerintah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "洗濯機",
+"Furigana": "せんたくき",
+"Romaji": "sentakuki",
+"Meaning": "Mesin cuci",
+"Type": "Noun"
+},
+{
+"Vocabulary": "掃除機",
+"Furigana": "そうじき",
+"Romaji": "soujiki",
+"Meaning": "Mesin penyedot debu",
+"Type": "Noun"
+},
+{
+"Vocabulary": "計算機",
+"Furigana": "けいさんき",
+"Romaji": "keisanki",
+"Meaning": "Kalkulator / Mesin hitung",
+"Type": "Noun"
+},
+{
+"Vocabulary": "コピー機",
+"Furigana": "こぴーき",
+"Romaji": "kopiiki",
+"Meaning": "Mesin fotokopi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "印刷機",
+"Furigana": "いんさつき",
+"Romaji": "insatsuki",
+"Meaning": "Mesin cetak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "自動販売機",
+"Furigana": "じどうはんばいき",
+"Romaji": "jidouhanbaiki",
+"Meaning": "Mesin penjual otomatis (Vending machine)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "ゲーム機",
+"Furigana": "げーむき",
+"Romaji": "geemuki",
+"Meaning": "Konsol permainan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "受話器",
+"Furigana": "じゅわき",
+"Romaji": "juwaki",
+"Meaning": "Gagang telepon",
+"Type": "Noun"
+},
+{
+"Vocabulary": "注射器",
+"Furigana": "ちゅうしゃき",
+"Romaji": "chuushaki",
+"Meaning": "Alat suntik",
+"Type": "Noun"
+},
+{
+"Vocabulary": "洗面器",
+"Furigana": "せんめんき",
+"Romaji": "senmenki",
+"Meaning": "Baskom cuci muka",
+"Type": "Noun"
+},
+{
+"Vocabulary": "湯沸かし器",
+"Furigana": "ゆわかしき",
+"Romaji": "yuwakashiki",
+"Meaning": "Pemanas air",
+"Type": "Noun"
+},
+{
+"Vocabulary": "消火器",
+"Furigana": "しょうかき",
+"Romaji": "shoukaki",
+"Meaning": "Alat pemadam api",
+"Type": "Noun"
+},
+{
+"Vocabulary": "充電器",
+"Furigana": "じゅうでんき",
+"Romaji": "juudenki",
+"Meaning": "Pengisi daya (Charger)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "釣り具",
+"Furigana": "つりぐ",
+"Romaji": "tsurigu",
+"Meaning": "Alat pancing",
+"Type": "Noun"
+},
+{
+"Vocabulary": "洗面具",
+"Furigana": "せんめんぐ",
+"Romaji": "senmengu",
+"Meaning": "Alat kebersihan diri",
+"Type": "Noun"
+},
+{
+"Vocabulary": "筆記具",
+"Furigana": "ひっきぐ",
+"Romaji": "hikkigu",
+"Meaning": "Alat tulis",
+"Type": "Noun"
+},
+{
+"Vocabulary": "温度計",
+"Furigana": "おんどけい",
+"Romaji": "ondokei",
+"Meaning": "Termometer",
+"Type": "Noun"
+},
+{
+"Vocabulary": "体重計",
+"Furigana": "たいじゅうけい",
+"Romaji": "taijuukei",
+"Meaning": "Timbangan berat badan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "体温計",
+"Furigana": "たいおんけい",
+"Romaji": "taionkei",
+"Meaning": "Termometer suhu tubuh",
+"Type": "Noun"
+},
+{
+"Vocabulary": "血圧計",
+"Furigana": "けつあつけい",
+"Romaji": "ketsuatsukei",
+"Meaning": "Tensimeter (pengukur tekanan darah)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "日本風",
+"Furigana": "にほんふう",
+"Romaji": "nihonfuu",
+"Meaning": "Gaya Jepang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "アジア風",
+"Furigana": "あじあふう",
+"Romaji": "ajiafuu",
+"Meaning": "Gaya Asia",
+"Type": "Noun"
+},
+{
+"Vocabulary": "昔風",
+"Furigana": "むかしふう",
+"Romaji": "mukashifuu",
+"Meaning": "Gaya zaman dulu",
+"Type": "Noun"
+},
+{
+"Vocabulary": "サラリーマン風",
+"Furigana": "さらりーまんふう",
+"Romaji": "sarariimanfuu",
+"Meaning": "Gaya pekerja kantoran",
+"Type": "Noun"
+},
+{
+"Vocabulary": "中華風",
+"Furigana": "ちゅうかふう",
+"Romaji": "chuukafuu",
+"Meaning": "Gaya Tionghoa",
+"Type": "Noun"
+},
+{
+"Vocabulary": "現代風",
+"Furigana": "げんだいふう",
+"Romaji": "gendaifuu",
+"Meaning": "Gaya modern",
+"Type": "Noun"
+},
+{
+"Vocabulary": "西洋風",
+"Furigana": "せいようふう",
+"Romaji": "seiyoufuu",
+"Meaning": "Gaya barat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "家庭用",
+"Furigana": "かていよう",
+"Romaji": "kateiyou",
+"Meaning": "Untuk penggunaan rumah tangga",
+"Type": "Noun"
+},
+{
+"Vocabulary": "通勤用",
+"Furigana": "つうきんよう",
+"Romaji": "tsuukinyou",
+"Meaning": "Untuk berangkat kerja / komuter",
+"Type": "Noun"
+},
+{
+"Vocabulary": "女性用",
+"Furigana": "じょせいよう",
+"Romaji": "joseiyou",
+"Meaning": "Untuk wanita",
+"Type": "Noun"
+},
+{
+"Vocabulary": "男性用",
+"Furigana": "だんせいよう",
+"Romaji": "danseiyou",
+"Meaning": "Untuk pria",
+"Type": "Noun"
+},
+{
+"Vocabulary": "子供用",
+"Furigana": "こどもよう",
+"Romaji": "kodomoyou",
+"Meaning": "Untuk anak-anak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "医療用",
+"Furigana": "いりょうよう",
+"Romaji": "iryouyou",
+"Meaning": "Untuk penggunaan medis",
+"Type": "Noun"
+},
+{
+"Vocabulary": "携帯用",
+"Furigana": "けいたいよう",
+"Romaji": "keitaiyou",
+"Meaning": "Untuk portabel / dibawa-bawa",
+"Type": "Noun"
+},
+{
+"Vocabulary": "移動式",
+"Furigana": "いどうしき",
+"Romaji": "idoushiki",
+"Meaning": "Tipe yang bisa dipindah / Bergerak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "最新式",
+"Furigana": "さいしんしき",
+"Romaji": "saishinshiki",
+"Meaning": "Model terbaru",
+"Type": "Noun"
+},
+{
+"Vocabulary": "日本式",
+"Furigana": "にほんしき",
+"Romaji": "nihonshiki",
+"Meaning": "Sistem Jepang / Cara Jepang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "選択式",
+"Furigana": "せんたくしき",
+"Romaji": "sentakushiki",
+"Meaning": "Tipe pilihan ganda / Sistem pilihan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "英国式",
+"Furigana": "えいこくしき",
+"Romaji": "eikokushiki",
+"Meaning": "Gaya Inggris / Sistem Inggris",
+"Type": "Noun"
+},
+{
+"Vocabulary": "組み立て式",
+"Furigana": "くみたてしき",
+"Romaji": "kumitateshiki",
+"Meaning": "Tipe rakitan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "ガラス製",
+"Furigana": "がらすせい",
+"Romaji": "garasusei",
+"Meaning": "Terbuat dari kaca",
+"Type": "Noun"
+},
+{
+"Vocabulary": "革製",
+"Furigana": "かわせい",
+"Romaji": "kawasei",
+"Meaning": "Terbuat dari kulit",
+"Type": "Noun"
+},
+{
+"Vocabulary": "プラスチック製",
+"Furigana": "ぷらすちっくせい",
+"Romaji": "purasuchikkusei",
+"Meaning": "Terbuat dari plastik",
+"Type": "Noun"
+},
+{
+"Vocabulary": "金属製",
+"Furigana": "きんぞくせい",
+"Romaji": "kinzokusei",
+"Meaning": "Terbuat dari logam",
+"Type": "Noun"
+},
+{
+"Vocabulary": "アメリカ製",
+"Furigana": "あめりかせい",
+"Romaji": "amerikasei",
+"Meaning": "Buatan Amerika",
+"Type": "Noun"
+},
+{
+"Vocabulary": "中国製",
+"Furigana": "ちゅうごくせい",
+"Romaji": "chuugokusei",
+"Meaning": "Buatan Cina",
+"Type": "Noun"
+},
+{
+"Vocabulary": "〇〇社製",
+"Furigana": "まるまるしゃせい",
+"Romaji": "marumarushasei",
+"Meaning": "Buatan perusahaan ...",
+"Type": "Noun"
+},
+{
+"Vocabulary": "北海道産",
+"Furigana": "ほっかいどうさん",
+"Romaji": "hokkaidousan",
+"Meaning": "Produk dari Hokkaido",
+"Type": "Noun"
+},
+{
+"Vocabulary": "アメリカ産",
+"Furigana": "あめりかさん",
+"Romaji": "amerikasan",
+"Meaning": "Produk dari Amerika",
+"Type": "Noun"
+},
+{
+"Vocabulary": "競争心",
+"Furigana": "きょうそうしん",
+"Romaji": "kyousoushin",
+"Meaning": "Jiwa kompetitif / Semangat bersaing",
+"Type": "Noun"
+},
+{
+"Vocabulary": "恐怖心",
+"Furigana": "きょうふしん",
+"Romaji": "kyoufushin",
+"Meaning": "Rasa takut",
+"Type": "Noun"
+},
+{
+"Vocabulary": "独立心",
+"Furigana": "どくりつしん",
+"Romaji": "dokuritsushin",
+"Meaning": "Jiwa mandiri",
+"Type": "Noun"
+},
+{
+"Vocabulary": "好奇心",
+"Furigana": "こうきしん",
+"Romaji": "koukishin",
+"Meaning": "Rasa ingin tahu",
+"Type": "Noun"
+},
+{
+"Vocabulary": "安心感",
+"Furigana": "あんしんかん",
+"Romaji": "anshinkan",
+"Meaning": "Rasa aman",
+"Type": "Noun"
+},
+{
+"Vocabulary": "存在感",
+"Furigana": "そんざいかん",
+"Romaji": "sonzaikan",
+"Meaning": "Aura kehadiran / Eksistensi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "満足感",
+"Furigana": "まんぞくかん",
+"Romaji": "manzokukan",
+"Meaning": "Rasa puas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "不安感",
+"Furigana": "ふあんかん",
+"Romaji": "fuankan",
+"Meaning": "Rasa cemas / tidak aman",
+"Type": "Noun"
+},
+{
+"Vocabulary": "責任感",
+"Furigana": "せきにんかん",
+"Romaji": "sekininkan",
+"Meaning": "Rasa tanggung jawab",
+"Type": "Noun"
+},
+{
+"Vocabulary": "緊張感",
+"Furigana": "きんちょうかん",
+"Romaji": "kinchoukan",
+"Meaning": "Perasaan tegang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "危機感",
+"Furigana": "ききかん",
+"Romaji": "kikikan",
+"Meaning": "Perasaan krisis",
+"Type": "Noun"
+},
+{
+"Vocabulary": "表現力",
+"Furigana": "ひょうげんりょく",
+"Romaji": "hyougenryoku",
+"Meaning": "Kemampuan berekspresi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "集中力",
+"Furigana": "しゅうちゅうりょく",
+"Romaji": "shuuchuuryoku",
+"Meaning": "Kemampuan konsentrasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "判断力",
+"Furigana": "はんだんりょく",
+"Romaji": "handanryoku",
+"Meaning": "Kemampuan menilai / mengambil keputusan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "影響力",
+"Furigana": "えいきょうりょく",
+"Romaji": "eikyouryoku",
+"Meaning": "Daya pengaruh",
+"Type": "Noun"
+},
+{
+"Vocabulary": "想像力",
+"Furigana": "そうぞうりょく",
+"Romaji": "souzouryoku",
+"Meaning": "Daya imajinasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "生命力",
+"Furigana": "せいめいりょく",
+"Romaji": "seimeiryoku",
+"Meaning": "Daya hidup / Vitalitas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "会員制",
+"Furigana": "かいいんせい",
+"Romaji": "kaiinsei",
+"Meaning": "Sistem keanggotaan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "予約制",
+"Furigana": "よやくせい",
+"Romaji": "yoyakusei",
+"Meaning": "Sistem reservasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "少人数制",
+"Furigana": "しょうにんずうせい",
+"Romaji": "shouninzuusei",
+"Meaning": "Sistem jumlah orang sedikit",
+"Type": "Noun"
+},
+{
+"Vocabulary": "天皇制",
+"Furigana": "てんのうせい",
+"Romaji": "tennousei",
+"Meaning": "Sistem kekaisaran",
+"Type": "Noun"
+},
+{
+"Vocabulary": "学習法",
+"Furigana": "がくしゅうほう",
+"Romaji": "gakushuuhou",
+"Meaning": "Metode belajar",
+"Type": "Noun"
+},
+{
+"Vocabulary": "使用法",
+"Furigana": "しようほう",
+"Romaji": "shiyouhou",
+"Meaning": "Cara penggunaan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "利用法",
+"Furigana": "りようほう",
+"Romaji": "riyouhou",
+"Meaning": "Cara pemanfaatan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "解決法",
+"Furigana": "かいけつほう",
+"Romaji": "kaiketsuhou",
+"Meaning": "Metode penyelesaian",
+"Type": "Noun"
+},
+{
+"Vocabulary": "予防法",
+"Furigana": "よぼうほう",
+"Romaji": "yobouhou",
+"Meaning": "Cara pencegahan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "活用法",
+"Furigana": "かつようほう",
+"Romaji": "katsuyouhou",
+"Meaning": "Cara penerapan / pendayagunaan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "労働法",
+"Furigana": "ろうどうほう",
+"Romaji": "roudouhou",
+"Meaning": "Hukum perburuhan / ketenagakerjaan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "国際法",
+"Furigana": "こくさいほう",
+"Romaji": "kokusaihou",
+"Meaning": "Hukum internasional",
+"Type": "Noun"
+},
+{
+"Vocabulary": "少年法",
+"Furigana": "しょうねんほう",
+"Romaji": "shounenhou",
+"Meaning": "Hukum peradilan anak",
+"Type": "Noun"
+},
+{
+"Vocabulary": "招待状",
+"Furigana": "しょうたいじょう",
+"Romaji": "shoutaijou",
+"Meaning": "Surat undangan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "紹介状",
+"Furigana": "しょうかいじょう",
+"Romaji": "shoukaijou",
+"Meaning": "Surat pengantar / referensi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "案内状",
+"Furigana": "あんないじょう",
+"Romaji": "annaijou",
+"Meaning": "Surat pemberitahuan / informasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "お礼状",
+"Furigana": "おれいじょう",
+"Romaji": "oreijou",
+"Meaning": "Surat ucapan terima kasih",
+"Type": "Noun"
+},
+{
+"Vocabulary": "年賀状",
+"Furigana": "ねんがじょう",
+"Romaji": "nengajou",
+"Meaning": "Kartu ucapan tahun baru",
+"Type": "Noun"
+},
+{
+"Vocabulary": "挑戦状",
+"Furigana": "ちょうせんじょう",
+"Romaji": "chousenjou",
+"Meaning": "Surat tantangan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "会員証",
+"Furigana": "かいいんしょう",
+"Romaji": "kaiinshou",
+"Meaning": "Kartu keanggotaan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "学生証",
+"Furigana": "がくせいしょう",
+"Romaji": "gakuseishou",
+"Meaning": "Kartu pelajar / mahasiswa",
+"Type": "Noun"
+},
+{
+"Vocabulary": "免許証",
+"Furigana": "めんきょしょう",
+"Romaji": "menkyoshou",
+"Meaning": "Surat Izin Mengemudi (SIM) / Lisensi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "許可証",
+"Furigana": "きょかしょう",
+"Romaji": "kyokashou",
+"Meaning": "Surat izin",
+"Type": "Noun"
+},
+{
+"Vocabulary": "身分証",
+"Furigana": "みぶんしょう",
+"Romaji": "mibunshou",
+"Meaning": "Kartu identitas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "登録証",
+"Furigana": "とうろくしょう",
+"Romaji": "tourokushou",
+"Meaning": "Sertifikat pendaftaran",
+"Type": "Noun"
+},
+{
+"Vocabulary": "離婚届",
+"Furigana": "りこんとどけ",
+"Romaji": "rikontodoke",
+"Meaning": "Surat pendaftaran cerai",
+"Type": "Noun"
+},
+{
+"Vocabulary": "死亡届",
+"Furigana": "しぼうとどけ",
+"Romaji": "shiboutodoke",
+"Meaning": "Surat keterangan kematian",
+"Type": "Noun"
+},
+{
+"Vocabulary": "被害届",
+"Furigana": "ひがいとどけ",
+"Romaji": "higaitodoke",
+"Meaning": "Laporan kerusakan / kerugian",
+"Type": "Noun"
+},
+{
+"Vocabulary": "出生届",
+"Furigana": "しゅっせいとどけ",
+"Romaji": "shusseitodoke",
+"Meaning": "Akta kelahiran / Surat keterangan lahir",
+"Type": "Noun"
+},
+{
+"Vocabulary": "変更届",
+"Furigana": "へんこうとどけ",
+"Romaji": "henkoutodoke",
+"Meaning": "Formulir pemberitahuan perubahan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "退職届",
+"Furigana": "たいしょくとどけ",
+"Romaji": "taishokutodoke",
+"Meaning": "Surat pengunduran diri",
+"Type": "Noun"
+},
+{
+"Vocabulary": "日記帳",
+"Furigana": "にっきちょう",
+"Romaji": "nikkichou",
+"Meaning": "Buku harian / Jurnal",
+"Type": "Noun"
+},
+{
+"Vocabulary": "メモ帳",
+"Furigana": "めもちょう",
+"Romaji": "memochou",
+"Meaning": "Buku catatan / Notepad",
+"Type": "Noun"
+},
+{
+"Vocabulary": "電話帳",
+"Furigana": "でんわちょう",
+"Romaji": "denwachou",
+"Meaning": "Buku telepon",
+"Type": "Noun"
+},
+{
+"Vocabulary": "地図帳",
+"Furigana": "ちずちょう",
+"Romaji": "chizuchou",
+"Meaning": "Buku atlas / peta",
+"Type": "Noun"
+},
+{
+"Vocabulary": "スケジュール帳",
+"Furigana": "すけじゅーるちょう",
+"Romaji": "sukejuuruchou",
+"Meaning": "Buku agenda jadwal",
+"Type": "Noun"
+},
+{
+"Vocabulary": "アドレス帳",
+"Furigana": "あどれすちょう",
+"Romaji": "adoresuchou",
+"Meaning": "Buku alamat",
+"Type": "Noun"
+},
+{
+"Vocabulary": "小遣い帳",
+"Furigana": "こづかいちょう",
+"Romaji": "kozukaichou",
+"Meaning": "Buku catatan pengeluaran kas kecil",
+"Type": "Noun"
+},
+{
+"Vocabulary": "日本語版",
+"Furigana": "にほんごばん",
+"Romaji": "nihongoban",
+"Meaning": "Edisi bahasa Jepang",
+"Type": "Noun"
+},
+{
+"Vocabulary": "英語版",
+"Furigana": "えいごばん",
+"Romaji": "eigoban",
+"Meaning": "Edisi bahasa Inggris",
+"Type": "Noun"
+},
+{
+"Vocabulary": "最新版",
+"Furigana": "さいしんばん",
+"Romaji": "saishinban",
+"Meaning": "Edisi terbaru",
+"Type": "Noun"
+},
+{
+"Vocabulary": "カラー版",
+"Furigana": "からーばん",
+"Romaji": "karaaban",
+"Meaning": "Edisi berwarna",
+"Type": "Noun"
+},
+{
+"Vocabulary": "保存版",
+"Furigana": "ほぞんばん",
+"Romaji": "hozonban",
+"Meaning": "Edisi untuk disimpan / dikoleksi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "限定版",
+"Furigana": "げんていばん",
+"Romaji": "genteiban",
+"Meaning": "Edisi terbatas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "改訂版",
+"Furigana": "かいていばん",
+"Romaji": "kaiteiban",
+"Meaning": "Edisi revisi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "男女別",
+"Furigana": "だんじょべつ",
+"Romaji": "danjobetsu",
+"Meaning": "Dibedakan berdasarkan jenis kelamin",
+"Type": "Noun"
+},
+{
+"Vocabulary": "種類別",
+"Furigana": "しゅるいべつ",
+"Romaji": "shuruibetsu",
+"Meaning": "Berdasarkan jenis / kategori",
+"Type": "Noun"
+},
+{
+"Vocabulary": "地域別",
+"Furigana": "ちいきべつ",
+"Romaji": "chiikibetsu",
+"Meaning": "Berdasarkan wilayah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "年齢別",
+"Furigana": "ねんれいべつ",
+"Romaji": "nenreibetsu",
+"Meaning": "Berdasarkan usia",
+"Type": "Noun"
+},
+{
+"Vocabulary": "職業別",
+"Furigana": "しょくぎょうべつ",
+"Romaji": "shokugyoubetsu",
+"Meaning": "Berdasarkan pekerjaan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "産業別",
+"Furigana": "さんぎょうべつ",
+"Romaji": "sangyoubetsu",
+"Meaning": "Berdasarkan industri",
+"Type": "Noun"
+},
+{
+"Vocabulary": "年代別",
+"Furigana": "ねんだいべつ",
+"Romaji": "nendaibetsu",
+"Meaning": "Berdasarkan generasi / kelompok usia",
+"Type": "Noun"
+},
+{
+"Vocabulary": "男女差",
+"Furigana": "だんじょさ",
+"Romaji": "danjosa",
+"Meaning": "Perbedaan / kesenjangan gender",
+"Type": "Noun"
+},
+{
+"Vocabulary": "気温差",
+"Furigana": "きおんさ",
+"Romaji": "kionsa",
+"Meaning": "Perbedaan suhu",
+"Type": "Noun"
+},
+{
+"Vocabulary": "身長差",
+"Furigana": "しんちょうさ",
+"Romaji": "shinchousa",
+"Meaning": "Perbedaan tinggi badan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "実力差",
+"Furigana": "じつりょくさ",
+"Romaji": "jitsuryokusa",
+"Meaning": "Perbedaan kemampuan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "地域差",
+"Furigana": "ちいきさ",
+"Romaji": "chiikisa",
+"Meaning": "Kesenjangan wilayah",
+"Type": "Noun"
+},
+{
+"Vocabulary": "個人差",
+"Furigana": "こじんさ",
+"Romaji": "kojinsa",
+"Meaning": "Perbedaan individu",
+"Type": "Noun"
+},
+{
+"Vocabulary": "年齢差",
+"Furigana": "ねんれいさ",
+"Romaji": "nenreisa",
+"Meaning": "Perbedaan umur",
+"Type": "Noun"
+},
+{
+"Vocabulary": "能力差",
+"Furigana": "のうりょくさ",
+"Romaji": "nouryokusa",
+"Meaning": "Perbedaan kecakapan / kapasitas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "使用量",
+"Furigana": "しようりょう",
+"Romaji": "shiyouryou",
+"Meaning": "Jumlah penggunaan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "生産量",
+"Furigana": "せいさんりょう",
+"Romaji": "seisanryou",
+"Meaning": "Jumlah produksi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "収穫量",
+"Furigana": "しゅうかくりょう",
+"Romaji": "shuukakuryou",
+"Meaning": "Jumlah panen",
+"Type": "Noun"
+},
+{
+"Vocabulary": "降水量",
+"Furigana": "こうすいりょう",
+"Romaji": "kousuiryou",
+"Meaning": "Curah hujan / Volume curah hujan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "死亡率",
+"Furigana": "しぼうりつ",
+"Romaji": "shibouritsu",
+"Meaning": "Tingkat kematian",
+"Type": "Noun"
+},
+{
+"Vocabulary": "成功率",
+"Furigana": "せいこうりつ",
+"Romaji": "seikouritsu",
+"Meaning": "Tingkat keberhasilan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "合格率",
+"Furigana": "ごうかくりつ",
+"Romaji": "goukakuritsu",
+"Meaning": "Tingkat kelulusan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "失業率",
+"Furigana": "しつぎょうりつ",
+"Romaji": "shitsugyouritsu",
+"Meaning": "Tingkat pengangguran",
+"Type": "Noun"
+},
+{
+"Vocabulary": "普及率",
+"Furigana": "ふきゅうりつ",
+"Romaji": "fukyuuritsu",
+"Meaning": "Tingkat penyebaran / penetrasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "進学率",
+"Furigana": "しんがくりつ",
+"Romaji": "shingakuritsu",
+"Meaning": "Tingkat / persentase melanjutkan pendidikan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "競争率",
+"Furigana": "きょうそうりつ",
+"Romaji": "kyousouritsu",
+"Meaning": "Tingkat persaingan / keketatan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "満足度",
+"Furigana": "まんぞくど",
+"Romaji": "manzokudo",
+"Meaning": "Tingkat kepuasan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "完成度",
+"Furigana": "かんせいど",
+"Romaji": "kanseido",
+"Meaning": "Tingkat kesempurnaan / penyelesaian",
+"Type": "Noun"
+},
+{
+"Vocabulary": "自由度",
+"Furigana": "じゆうど",
+"Romaji": "jiyuudo",
+"Meaning": "Tingkat kebebasan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "理解度",
+"Furigana": "りかいど",
+"Romaji": "rikaido",
+"Meaning": "Tingkat pemahaman",
+"Type": "Noun"
+},
+{
+"Vocabulary": "信用度",
+"Furigana": "しんようど",
+"Romaji": "shinyoudo",
+"Meaning": "Tingkat kepercayaan / kredibilitas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "優先度",
+"Furigana": "ゆうせんど",
+"Romaji": "yuusendo",
+"Meaning": "Tingkat prioritas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "基本的",
+"Furigana": "きほんてき",
+"Romaji": "kihonteki",
+"Meaning": "Mendasar / Fundamental",
+"Type": "Noun"
+},
+{
+"Vocabulary": "一般的",
+"Furigana": "いっぱんてき",
+"Romaji": "ippanteki",
+"Meaning": "Umum",
+"Type": "Noun"
+},
+{
+"Vocabulary": "社会的",
+"Furigana": "しゃかいてき",
+"Romaji": "shakaiteki",
+"Meaning": "Sosial / Secara sosial",
+"Type": "Noun"
+},
+{
+"Vocabulary": "経済的",
+"Furigana": "けいざいてき",
+"Romaji": "keizaiteki",
+"Meaning": "Ekonomis",
+"Type": "Noun"
+},
+{
+"Vocabulary": "国際的",
+"Furigana": "こくさいてき",
+"Romaji": "kokusaiteki",
+"Meaning": "Internasional",
+"Type": "Noun"
+},
+{
+"Vocabulary": "効果的",
+"Furigana": "こうかてき",
+"Romaji": "koukateki",
+"Meaning": "Efektif",
+"Type": "Noun"
+},
+{
+"Vocabulary": "精神的",
+"Furigana": "せいしんてき",
+"Romaji": "seishinteki",
+"Meaning": "Mental / Spiritual",
+"Type": "Noun"
+},
+{
+"Vocabulary": "協力的",
+"Furigana": "きょうりょくてき",
+"Romaji": "kyouryokuteki",
+"Meaning": "Kooperatif / Bersifat kerja sama",
+"Type": "Noun"
+},
+{
+"Vocabulary": "具体的",
+"Furigana": "ぐたいてき",
+"Romaji": "gutaiteki",
+"Meaning": "Konkret / Spesifik",
+"Type": "Noun"
+},
+{
+"Vocabulary": "工業化",
+"Furigana": "こうぎょうか",
+"Romaji": "kougyouka",
+"Meaning": "Industrialisasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "自由化",
+"Furigana": "じゆうか",
+"Romaji": "jiyuuka",
+"Meaning": "Liberalisasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "国際化",
+"Furigana": "こくさいか",
+"Romaji": "kokusaika",
+"Meaning": "Internasionalisasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "映画化",
+"Furigana": "えいがか",
+"Romaji": "eigaka",
+"Meaning": "Adaptasi ke film",
+"Type": "Noun"
+},
+{
+"Vocabulary": "深刻化",
+"Furigana": "しんこくか",
+"Romaji": "shinkokuka",
+"Meaning": "Memburuk / Menjadi lebih serius",
+"Type": "Noun"
+},
+{
+"Vocabulary": "表面化",
+"Furigana": "ひょうめんか",
+"Romaji": "hyoumenka",
+"Meaning": "Muncul ke permukaan / Menjadi nyata",
+"Type": "Noun"
+},
+{
+"Vocabulary": "実用化",
+"Furigana": "じつようか",
+"Romaji": "jitsuyouka",
+"Meaning": "Implementasi praktis / Praktikalisasi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "温暖化",
+"Furigana": "おんだんか",
+"Romaji": "ondanka",
+"Meaning": "Pemanasan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "高齢化",
+"Furigana": "こうれいか",
+"Romaji": "koureika",
+"Meaning": "Penuaan (populasi)",
+"Type": "Noun"
+},
+{
+"Vocabulary": "可能性",
+"Furigana": "かのうせい",
+"Romaji": "kanousei",
+"Meaning": "Kemungkinan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "重要性",
+"Furigana": "じゅうようせい",
+"Romaji": "juuyousei",
+"Meaning": "Kepentingan / Signifikansi",
+"Type": "Noun"
+},
+{
+"Vocabulary": "必要性",
+"Furigana": "ひつようせい",
+"Romaji": "hitsuyousei",
+"Meaning": "Kebutuhan / Keharusan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "生産性",
+"Furigana": "せいさんせい",
+"Romaji": "seisansei",
+"Meaning": "Produktivitas",
+"Type": "Noun"
+},
+{
+"Vocabulary": "信頼性",
+"Furigana": "しんらいせい",
+"Romaji": "shinraisei",
+"Meaning": "Keandalan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "安定性",
+"Furigana": "あんていせい",
+"Romaji": "anteisei",
+"Meaning": "Stabilitas / Kestabilan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "危険性",
+"Furigana": "きけんせい",
+"Romaji": "kikensei",
+"Meaning": "Bahaya / Risiko",
+"Type": "Noun"
+},
+{
+"Vocabulary": "安全性",
+"Furigana": "あんぜんせい",
+"Romaji": "anzensei",
+"Meaning": "Keamanan / Keselamatan",
+"Type": "Noun"
+},
+{
+"Vocabulary": "具体性",
+"Furigana": "ぐたいせい",
+"Romaji": "gutaisei",
+"Meaning": "Kekonkretan / Kejelasan",
+"Type": "Noun"
 }
 ]
