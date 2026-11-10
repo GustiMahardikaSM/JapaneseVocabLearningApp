@@ -19,27 +19,7 @@ export const getWordsForLevel = async (level: string): Promise<FlashcardItem[]> 
 
   // Load the selected level's data
   const mainDataModule = await import(`./data/${level}.json`);
-  let mainData: FlashcardItem[] = mainDataModule.default;
-
-  // If it's not N5, we need to filter out words from lower levels
-  if (levelIndex > 0) {
-    const lowerLevels = levels.slice(0, levelIndex);
-    
-    const lowerLevelPromises = lowerLevels.map(lowerLevel => import(`./data/${lowerLevel}.json`));
-    const lowerLevelModules = await Promise.all(lowerLevelPromises);
-
-    const lowerLevelVocab = new Set<string>();
-    lowerLevelModules.forEach(module => {
-      const data: FlashcardItem[] = module.default;
-      data.forEach(item => {
-        if (item.Vocabulary) {
-          lowerLevelVocab.add(item.Vocabulary);
-        }
-      });
-    });
-
-    mainData = mainData.filter(item => item.Vocabulary && !lowerLevelVocab.has(item.Vocabulary));
-  }
+  const mainData: FlashcardItem[] = mainDataModule.default;
 
   return mainData;
 };
